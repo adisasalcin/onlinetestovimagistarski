@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Kod reanimacije odnos disanja i masaže srca je:",
+  "odgovori":["5 uduvavanja i 5 masaža srca tj odnos 1:1","2 uduvavanja i 15 masaža srca tj odnos 2:15","2 uduvavanja i 30 masaža srca tj odnos 2:30"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Čovjek normalno diše:",
+  "odgovori":["14-16 puta na sat","12-20 puta u jednoj minuti","12 do 20 puta na dan"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kod udara električne struje prvo:",
+  "odgovori":["povrijeđenog zakopati u zemlju da bi zemlja izvukla struju","ukloniti izvor struje ili isključiti osigurač","odmah započeti sa oživljavanjem ili reanimacijom"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kod hemijske povrede oka ne smijemo raditi:",
+  "odgovori":["Isprati oko sa cistom tekucom vodom","zavijati oko ili prebaciti sterilnu gazu","isprati oko i hitno transportovati do bolnice"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kod mehaničke povrede oka smijemo raditi:",
+  "odgovori":["izvaditi strano tijelo iz oka","zaviti oba oka i transportovati do bolnice","ispirati oko sa razblaženim alkoholom"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Pod opekotinama I stepena podrazumijeva se:",
+  "odgovori":["zahvačena koža, potkžno masno tkivo i mišic","crvenilo kože i jaka bolnost","zahvačeni dublji slojevi tkiva i kosti"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kod opekotina pravilo 9 podrazumijeva:",
+  "odgovori":["18% zahvaćenosti tijela-prednja strana grudnog koša i trbuha","9% genitalije","18% jedna ruka"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Alkohol izaziva:",
+  "odgovori":["ubrzavanje refleksa","povečanje koncentracije i moć pamćenja","pospanost i jako usporavanje refleksa"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Šta je AED?",
+  "odgovori":["Automatski eksterni defabrilator","Automatski ekstremni defabrilator","Automatski eksterni dozimetar"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"U kom položaju se povrijeđeni iznosi iz automobila?",
+  "odgovori":["U položaju u kojem se našao u trenutku nesreće","U ležećem položaju","Isključivo u polusjedećem položaju"],
+  "tacno":1
+}]

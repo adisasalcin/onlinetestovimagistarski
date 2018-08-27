@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Broj otkucaja srca kod normalne, zdrave osobe je:",
+  "odgovori":["60-80 otkucaja u jednom satu","60-80 otkucaja u jednoj sekundi","60-80 otkucaja u jednoj minuti"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Kod povrede kičme treba:",
+  "odgovori":["povrijeđenog postaviti u sjedeći položaj i transportovati ga prvim prevoznim sredstvom koje naiđe","povrijeđenog postaviti na leđa i transportovati ga adekvatnim vozilom zajedno sa sredstvom za imobilizaciju","povrijeđenog ostavljamo na mjestu nesreće i odlazimo do prve ambulante po kola i doktora"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"U kom položaju se transportuje osoba u besvjesnom stanju?",
+  "odgovori":["U polusjedećem položaju","U ležećem položaju","U bočnom položaju (koma položaj)"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Koji je najsigurniji način da se obezbjedi prohodnost disajnih puteva?",
+  "odgovori":["Vađenjem stranog tijela iz disajnih puteva","Zabacivanjem glave unazad","Povrijeđenu osobu postaviti u polusjedeći položaj"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kod udara groma treba:",
+  "odgovori":["Zaštititi unesrećenog od groma","zakopati unesrećenog da zemlju da izvuče elektricitet","pozvati hitnu medicinsku pomoć"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Kod trovanja izduvnim gasovima postupak je sledeći:",
+  "odgovori":["otvoriti vrata i prozore, unesrećenog izvući na svjež vazduh","puzeći doći do unesrećenog i odmah započeti oživljavanje","obavijestiti vatrogasce i hitnu pomoć i čekati dok oni ne stignu"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kod hemijske povrede oka prva pomoć se sastoji u:",
+  "odgovori":["oko ispirati sa čistom vodom i hitno transportovati do bolnice","oči zaviti zavojem i hitno transportovati adekvatnim vozilom","ispsrati oči razblaženim alkoholom, zaviti i transportovati"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Opekotine trećeg stepena:",
+  "odgovori":["zahvataju samo površni sloj kože i izazivaju bolnost","zahvataju kosti i stvaraju ugljenisanost","jaka bolnost sa sukrvičavim sadržajem"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Droga utiče na vozača tako:",
+  "odgovori":["što pojačava reflekse i koncentraciju","što usporava reflekse i izaziva pospanost","drogirani vozač se strogo pridržava znakova"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Znaci prestanka disanja su:",
+  "odgovori":["Bljedilo usana","Unesrećeni je bez svijesti ne može se čuti niti osjetiti izdahnuti zrak, a grudni koš se ne diže","Modre ruke i noge"],
+  "tacno":2
+}]

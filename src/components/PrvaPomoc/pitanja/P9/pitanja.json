@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Prva pomoć je:",
+  "odgovori":["Pomoć koja se pruža u kolima hitne pomoći","Pomoć koju pružaju zdravstveni radnici","Pomoć koja se ukazuje na mjestu nesreće"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Život unesrećenog najviše ugrožava",
+  "odgovori":["Prestanak disanja, besvjesno stanje i jako krvarenje","Udarac u glavu tupim predmetom","Opekotine"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kod besvjesnog stanja (unesrećeni je bez svijesti i diše), opasnosti su:",
+  "odgovori":["Moguća oduzetost ruku i nogu","Gušenje jezikom, povraćenim sadržajem","Gubitak velike količine krvi"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Prvi zavoj je:",
+  "odgovori":["Zavoj na kojem se nalazi znak Crvenog krsta","Zavoj na kojem se nalazi jedno ili dva sterilna jastučeta od gaze","Zavoj sa utkanim rubom"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Za provjeru funkcije disanja primjenjuje se tehnika",
+  "odgovori":["Gledaj-Slušaj-Osjeti disanje","Gledaj- Slušaj-Opipaj puls","Gledaj-Slušaj-Dozovi"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koji je broj telefona vatrogasne službe",
+  "odgovori":["123","155","192"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Krvarenja mogu biti:",
+  "odgovori":["Trajna","Vanjska i unutrašnja","Povremena i privremena"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Do čega može dovesti pregrijavanje kabine automobile:",
+  "odgovori":["Kvara na motoru automobile","Isparavanja","Toplotnog udara"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Rana je:",
+  "odgovori":["Svaki prekid kontinuiteta kože","Modrilo po koži","Gnojne promjene na koži"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Šta se stavlja na otvorenu ranu?",
+  "odgovori":["Jod","Alkohol","Sterilnu gazu"],
+  "tacno":3
+}]

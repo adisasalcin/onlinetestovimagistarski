@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Šta sadrži poziv policiji:",
+  "odgovori":["Obavjest o marki automobila","Mjesto nesreće, o kakvoj se nesreći radi, broj povrijeđenih,ime prezime i telefon pozivaoca","Lični podaci pozivaoca"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Da li je pružanje prve pomoći u saobraćaju, za vozača moralna ili zakonska obaveza?",
+  "odgovori":["To je moralna obaveza","Ne postoji obaveza","Pružanje prve pomoći u saobraćaju za zakonska obaveza za svakog vozača"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Prva pomoć kod povrede glave i vrata je:",
+  "odgovori":["Pokušati da se osoba nikako ne pomjera","Pomjeriti osobu i odvesti je u hitnu pomoć","Postaviti je u sjedeći položaj"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kada je moguće izvlačenje utopljenika iz automobila:",
+  "odgovori":["Kada automobil izvuku na sigurno mjesto","Nije moguće","Izvlačenje je moguće, ako prethodno otvorimo prozor da bi voda napunila automobil"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Pod sunčanicom podrazumjevamo:",
+  "odgovori":["Otok moždanih ovojnica nastao kao poslijedica dugotrajnog izlaganja lobanje sunčevim zracima","Pospanost i nesvjesticu nastalu uslijed izlaganja sunčevim zracima","Smanjen dotok krvi u mozak nastao uslijed izlaganja sunčevim zracima"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Opasnosti kod povrede trbuha su:",
+  "odgovori":["Bol u trbuhu koji je nesnosan","Povreda unutrašnjih organa trbuha sa krvarenjem i upalom trbušne maramice","Povraćanje i gubitak svijesti"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Ukoliko osjetite umor dok vozite potrebno je:",
+  "odgovori":["ubrzati vožnju","osvježiti se vrelom kafom ili hladnim pivom","smanjiti brzinu kretanja vozila, otvoriti prozore, na prvom pogodnom mjestu stati i napraviti pauzu, prošetati i osvježiti se"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Telefonski broj službe hitne pomoći je:",
+  "odgovori":["122","123","124"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Koji gas se oslobađa pri sagorjevanju benzina, a koji u zatvorenom prostoru može izazvati smrt:",
+  "odgovori":["Duhanski dim","Natrijum hlorid","Ugljen monoksid"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Da li se vadi strano tijelo iz rane:",
+  "odgovori":["Predmet koji je napravio ranu i nalazi se u rani ne smijemo nikako dirati","Da","Obilježimo flomasterom strano tijelo"],
+  "tacno":1
+}]

@@ -1,0 +1,240 @@
+[{
+  "level":1,
+  "pitanje":"Za vrijeme upravljanja motornim vozilom na autoputu vozač ne smije: ",
+  "odgovori":["mijenjati saobraćajnu traku kojom se predhodno kretao","kretati se vozilom unazad","obavljati radnju polukružnog okretanja"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kojim vozilima imate pravo upravljati ukoliko imate vozačku dozvolu B kategorije?",
+  "odgovori":["mopedom","četvorociklom","vozilima čija je najveća dozvoljena masa veća od 3500 kg"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Vozaču kojem je u roku od jedne godine zbog učinjenih prekršaja iz Zakona o osnovama bezbjednosti saobraćaja na putevima u Bosni i Hercegovini određeno najmanje 10 kaznenih bodova: ",
+  "odgovori":["biće oduzeta vozačka dozvola u trajanju od 60 dana","biće oduzeta vozačka dozvola u trajanju od 30 dana","biće upućen na provjeru poznavanja saobraćajnih propisa"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Vozač koji na provjeri poznavanja saobraćajnih propisa ne pokaže potrebno znanje može, na svoj zahtjev, pristupiti ponovo provjeri:",
+  "odgovori":["poslije  isteka 15 dana od dana prethodne provjere","poslije  isteka 30 dana od dana prethodne provjere"],
+  "tacno":1
+  },
+{
+  "level":1,
+  "pitanje":"Uređaj za vožnju unazad, kad je upaljen, mora osvjetljavati put svjetlom:",
+  "odgovori":["bijele boje","bijele ili žute boje"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Osnovna boja znakova opasnosti je?",
+  "odgovori":["žuta a ivice trougla su crvene","plava a simboli i natpisi su bijele boje","bijela a ivice trougla su crvene"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Uređaj za upravljanje vozilom mora biti pouzdan i izveden tako da:",
+  "odgovori":["vozač može lako, brzo i na siguran način mijenjati smjer kretanja vozila","se prednji točkovi vozila, pri kretanju vozila po vodoravnoj ravnoj površini, nakon oslobađanja točka upravljača, sami vraćaju u položaj za pravolinijsko kretanje","omogućava slobodan hod točka upravljača na vozilu veći od 30°"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kako  će  ovlašteno  lice  postupiti  prema  vozaču  koji  odbije  da  se  podvrgne    ispitivanju, odnosno stručnom pregledu na koji je upućen radi provjeravanja da li ima alkohola u organizmu ili da li pokazuje znakove poremećenosti izazvane dejstvom alkohola?",
+  "odgovori":["odrediće mu rok u kojem se mora podvrgnuti ispitivanju, odnosno pregledu","na licu mjesta ćemu privremeno oduzeti vozačku dozvolu","isključiti vozilo iz saobraćaja"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"„Stop-svjetla“ ne moraju imati vozila koja na ravnom putu ne mogu razviti brzinu veću od:",
+  "odgovori":["25 km/h","30 km/h"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Radna mašina po svojim konstrukcionim osobinama ne može razviti brzinu veću od:",
+  "odgovori":["25 km/h","30 km/h","40 km/h"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"„Centralni registar“ je evidencija:",
+  "odgovori":["samo o vozačima","samo o vozilima","o svim vozačima i vozilima"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"„Brza cesta“, u pravilu:",
+  "odgovori":["nema zaustavnih traka","ima zaustavnih traka"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Međunarodna vozačka dozvola izdaje se na period važenja od:",
+  "odgovori":["jedne godine","dvije godine, odnosno na period propisan međunarodnim ugovorom","tri godine"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Izdata vam je vozačka dozvola za C1 podkategoriju. Kojim vozilima imate pravo upravljati?",
+  "odgovori":["vozilima koja, osim sjedišta za vozača, imaju više od osam sjedišta, a manje od šesnaest sjedišta","vozilima čija je najveća dozvoljena masa veća od 3500kg, a manja od 7500 kg"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Vozačka dozvola koja se izdaje licu starijem od 65 godina života produžava se sa rokom važenja od:",
+  "odgovori":["tri godine","dvije godine","deset godina"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Ispod slova „L” na tablici kojom se obilježava vozilo za osposobljavanje kandidata za vozača iz upravljanja motornim vozilom upisuje se",
+  "odgovori":["broj instruktorske dozvole instruktora vožnje","registarski broj vozila za koje se tablica koristi"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Ispod slova „P” kojim se obilježava vozilo kojim upravlja vozač početnik mora biti ispisan:",
+  "odgovori":["registarski broj vozila","broj vozačke dozvole vozača početnika"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Najmanja dopuštena dubina kanala na gaznoj površini pneumatika za putnička vozila je:",
+  "odgovori":["1 mm","1,6 mm","2 mm"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Ispred kolskog ulaza u zgradu, dvorište ili garažu vozač ne smije da: ",
+  "odgovori":["parkira vozilo","zaustavi vozilo"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Da li se u saobraćaju smije koristiti vozačka dozvola za koju je izdat duplikat?",
+  "odgovori":["ne","da"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je?",
+  "odgovori":["ukrštanje puteva istog značaja","ukrštanje sporednih puteva pod oštrim uglom"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je?",
+  "odgovori":["pokretni most","blizina obale"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak? ",
+  "odgovori":["zabrana saobraćaja u oba smjera","zabrana saobraćaja u smjeru kretanja vozila","da se saobraćaj odvija iz suprotnog smjera"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak? ",
+  "odgovori":["produžetak puta sa prvenstvom prolaza","završetak puta ili dijela puta sa prvenstvom prolaza"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Kako ćete postupiti nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["uz povećanu pažnju nastaviti kretanje vozilom, jer imam pravo prvenstva prolaza u odnosu na vozila koja dolaze iz suprotnog smjera","zaustaviti vozilo i propustiti vozila iz suprotnog smjera"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kako ćete postupiti nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["smanjiti brzinu kretanja vozila do brzine hoda pješaka","povećati brzinu kretanja vozila"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kojim vozilima je dozvoljeno kretanje putem označenim ovim saobraćajnim znakom?",
+  "odgovori":["bicikl","putničko vozilo, teretno vozilo, autobus","motocikl"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koja vozila se obilježavaju znakom kao na slici?",
+  "odgovori":["vozila koja prevoze opasne materije","spora vozila"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["opasnost za koju nije predviđen poseban znak","opasnost kad se krećemo klizavim kolovozom"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kako treba postupiti nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["pravovremeno prebaciti u niži stepen prenosa","prebaciti u viši stepen prenosa i što više kočiti nožnom kočnicom"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-1-3","3-1-2","1-2-3"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["1-2-3","1-3-2","3-1-2"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-1-3","1-3-2","3-2-1"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["3-2-1","1-2-3","1-3-2"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["1-2-3","2-1-3","3-1-2"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-1-3","3-2-1","1-3-2"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["1-2-3","2-1-3","3-1-2"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["3-2-1","2-1-3","1-3-2"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Kako u saobraćajnoj situaciji kao na slici mora postupiti vozač vozila broj 2?",
+  "odgovori":["propustiti vozilo broj 1","proći prije vozila broj 1"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Kako u saobraćajnoj situaciji kao na slici mora postupiti vozač vozila broj 2?",
+  "odgovori":["proći prije vozila broj 1","propustiti vozilo broj 1"],
+  "tacno":1
+}]

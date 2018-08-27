@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Kolika je najveća dozvoljena širina vozila sa stalnim ili izmjenjivim klimatizovanim nadgradnjama čiji su bočni zidovi uključujući i toplotnu izolaciju minimalne debljine 45 mm?",
+  "odgovori":["2,55 m","2,60 m","2,50 m"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kolika su najveća dozvoljena osovinska opterećenja za pojedinačne pogonske osovine?",
+  "odgovori":["10 t","11,5 t","11 t"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Na kojem nagibu parkirna kočnica motornog odnosno priključnog vozila mora obezbijediti nepokretnost vozila opterećenog do najveće dopuštene mase?",
+  "odgovori":["12 %","18 %"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Na kojem nagibu parkirna kočnica „skupa vozila“ mora obezbijediti nepokretnost cijelog skupa vozila, a da pritom skup vozila ne bude kočen na drugi način?",
+  "odgovori":["6 %","12 %"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Opasne materije mogu da prevoze samo lica koja su, pored drugih zakonom propisanih uslova:",
+  "odgovori":["navršila 21 godinu života","navršila 18 godina života","stručno osposobljena za rukovanje i prevoz opasnih materija"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"U kategoriju C ubrajaju se motorna vozila za prevoz tereta čija je najveća dozvoljena masa:",
+  "odgovori":["veća od 3.500 kg","veća od 7.500 kg"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"U potkategoriju C1 ubrajaju se motorna vozila za prevoz tereta čija je najveća dozvoljena masa:",
+  "odgovori":["veća od 3.500 kg, a manja od 7.500 kg","veća od 7.500 kg, a manja od 12.000 kg"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Vozač koji upravlja autobusom ili teretnim motornim vozilom ili skupom vozila čija je najveća dozvoljena masa veća od 3.500 kg ne smije neprekidno upravljati vozilom duže od 4,5 h, nakon čega mora da koristi odmor u trajanju od:",
+  "odgovori":["30 min","45 min","1h "],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Da li stop-svjetla mogu svijetliti u slučaju kada vozač koristi retarder?",
+  "odgovori":["ne mogu","mogu"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Koliko je vrijeme trajanja ispita iz upravljanja motornim vozilom za potkategoriju C1?",
+  "odgovori":["najmanje 25 min","najmanje 35 min"],
+  "tacno":2
+}]

@@ -1,0 +1,240 @@
+[{
+  "level":1,
+  "pitanje":"Međunarodna vozačka dozvola: ",
+  "odgovori":["može se zamijeniti za vozačku dozvolu BiH","ne može se zamijeniti za vozačku dozvolu BiH"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Vozač koji upravlja „skupom vozila“ čija je najveća dozvoljena masa veća od 3.500 kg ne smije neprekidno upravljati vozilom:",
+  "odgovori":["duže od 4,5 h","duže od 5 h","duže od 9 h"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Motorno vozilo koje prevozi opasne materije mora biti obilježeno sa prednje strane:",
+  "odgovori":["sa dva okrugla bijela svjetla, prečnika najmanje 10 cm na gornjim uglovima vozila","sa dva okrugla narandžasta svjetla, prečnika najmanje 10 cm na gornjim uglovima vozila"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Šta znači znak „X” u gornjem redu identifikacione table za prevoz opasnih materija?",
+  "odgovori":["da opasna materija burno reaguje ako dođe u dodir sa otvorenim plamenom","da opasna materija burno reaguje ako dođe u dodir sa vodom"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Motorna vozila kojima se prevoze opasne materije:",
+  "odgovori":["mogu se zaustavljati i parkirati samo na mjestima koja su za tu vrstu vozila određena i obilježena","mogu se zaustavljati i parkirati na kolovozu"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Vozila koja ne ispunjavaju propisane uslove u pogledu dimenzija, ukupne mase i osovinskog opterećenja mogu da učestvuju u saobraćaju na javnom putu?",
+  "odgovori":["ako ispunjavaju posebne uslove koji omogućavaju bezbjedan i nesmetan saobraćaj, utvrđene u odobrenju koje je izdalo nadležno ministarstvo","ako se kreću po putu van naselja"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Pravilnik o tehničkim pregledima podrazumijeva da su laka vozila ona vozila čija najveća dopuštena masa ne prelazi:",
+  "odgovori":["3,5 t","7,5 t"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"U kojem se periodu obavlja redovni tehnički pregled vozila auto-škole koja su starija od 5 godina?",
+  "odgovori":["svaka 3 mjeseca","svakih 6 mjeseci","jednom godišnje"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Ako je vozač prinuđen zaustaviti ili parkirati vozilo na kolovozu sa dvije saobraćajne trake gdje se saobraćaj odvija u oba smjera:",
+  "odgovori":["dužan je obilježiti vozilo posebnim znakom kojim se označava zaustavljeno vozilo na kolovozu (bezbjednosni trokut)","nije dužan obilježiti vozilo posebnim znakom kojim se označava zaustavljeno vozilo na kolovozu (bezbjednosni trokut)","mora uključiti uređaj za istovremeno paljenje svih pokazivača smjera, ako je u motornom vozilu ugrađen taj uređaj"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Da li se, po pravilu, od momenta prijema do momenta predaje opasne materije vozač motornog vozila smije udaljiti od vozila?",
+  "odgovori":["da","ne"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Motorno vozilo koje vuče vozilo koje prevozi opasne materije, ne smije se kretati brzinom većom od:",
+  "odgovori":["25 km/h","30 km/h","40 km/h"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Koja motorna i priključna vozila moraju imati gabaritna svjetla?",
+  "odgovori":["motorna i priključna vozila čija visina prelazi 2,8 m","motorna i priključna vozila koja su šira od 2,1 "],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Lice koje je položilo vozački ispit i kome je izdata vozačka dozvola za kategoriju vozila A, B ili C1 ne smije dvije godine od dana izdavanja vozačke dozvole upravljati vozilom na autoputu brzinom većom od:",
+  "odgovori":["130 km/h","70 km/h","100 km/h","120 km/h"],
+  "tacno":4
+},
+{
+  "level":1,
+  "pitanje":"Vuča natovarenog teretnog vozila sa priključnim vozilom ili bez priključnog vozila, odnosno traktora sa priključnim vozilom dozvoljena je samo:",
+  "odgovori":["do prvog mjesta pogodnog za pretovar tereta","izuzetno i do prvog mjesta na kojem može da se otkloni kvar na vozilu","vuča natovarenog teretnog vozila nije dozvoljena","vuča natovarenog teretnog vozila je dozvoljena bez ikakvih uslova"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Teret na vozilu ne smije da pređe najudaljeniju tačku na prednjoj strani vozila za više od:",
+  "odgovori":["0,25 m","0,50 m","1,00 m","jednu šestinu svoje dužine"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Širina motornih i priključnih vozila, uključujući izmjenjive nadgradnje za prihvat tereta, kao i svih uređaja koji se pri vožnji nalaze na vozilu, izuzimajući uređaje za čišćenje snijega i vozila namijenjenih za zimsko održavanje puteva, može biti maksimalne vrijednosti:",
+  "odgovori":["2,00 m","2,50 m","2,55 m","4,50 m"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Teret koji se prevozi na vozilu i priključnom vozilu može da pređe najudaljeniju tačku na zadnjoj strani vozila najviše za:",
+  "odgovori":["jednu šestinu svoje dužine koja je kao kontinuiran teret oslonjena na tovarni prostor","jednu petinu svoje dužine koja je kao kontinuiran teret oslonjena na tovarni prostor","jednu četvrtinu svoje dužine koja je kao kontinuiran teret oslonjena na tovarni prostor"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Vozača na vanredni ljekarski pregled rješenjem upućuje:",
+  "odgovori":["radnik policije","organ kod koga se vozač vodi u evidenciji","nadležna zdravstvena organizacija"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Visina motornih i priključnih vozila, uključujući izmjenjive nadgradnje za prihvatanje tereta kao i svih uređaja koji se pri vožnji nalaze na vozilu, može imati maksimalnu vrijednost:",
+  "odgovori":["5,00 m","4,00 m","3,00 m","4,50 m"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Ako se na putu kreću dva ili više vozila koja prevoze opasne materije, odstojanje između tih vozila ne smije biti manje od:",
+  "odgovori":["150 m","200 m","280 m"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je?",
+  "odgovori":["ukrštanje puteva istog značaja","ukrštanje sporednih puteva pod oštrim uglom"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je?",
+  "odgovori":["pokretni most","blizina obale"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak? ",
+  "odgovori":["zabrana saobraćaja u oba smjera","zabrana saobraćaja u smjeru kretanja vozila","da se saobraćaj odvija iz suprotnog smjera"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak? ",
+  "odgovori":["produžetak puta sa prvenstvom prolaza","završetak puta ili dijela puta sa prvenstvom prolaza"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Kako ćete postupiti nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["uz povećanu pažnju nastaviti kretanje vozilom, jer imam pravo prvenstva prolaza u odnosu na vozila koja dolaze iz suprotnog smjera","zaustaviti vozilo i propustiti vozila iz suprotnog smjera"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["brzina koja je preporučena","najmanja dopuštena brzina kretanja vozila","ograničenje brzine"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["zabrana saobraćaja za vozila koja na točkovima koriste lance","označava početak dijela puta na kome motorna vozila, osim motocikla moraju imati propisanu zimsku opremu u zimskim uslovima"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["obavezno se prestrojiti u desnu saobraćajnu traku","najava završetka preticanja"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koja motorna vozila je dozvoljeno preticati na putu označenim ovim saobraćajnim znakom?",
+  "odgovori":["motocikl bez prikolice i moped","putničko vozilo"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kako treba postupiti nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["obavezno zaustaviti vozilo","povećati pažnju","smanjiti brzinu kretanja vozila tako da se u slučaju potrebe može blagovremeno izvršiti radnja kočenja i zaustavljanja","nastaviti kretanje vozilom bez smanjenja brzine kretanja"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["5-4-3-2-1","1-2-3-4-5"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-3-1","1-2-3","3-1-2"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Kojim vozilima u saobraćajnoj situaciji kao na slici nije dozvoljen prolaz na raskrsnici?",
+  "odgovori":["vozilo broj 1 i broj 3","vozilo broj 4 i broj 2"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["4-3-1-2","3-4-1-2","4-3-2-1"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["1-2-3","2-3-1","3-1-2"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Kako treba postupiti u saobraćajnoj situaciji kao na slici?",
+  "odgovori":["obavezno se zaustaviti pa nastaviti kretanje vozilom ulijevo ili udesno","nastaviti kretanje vozilom nakon propuštanja vozila koja dolaze samo sa desne strane","nastaviti kretanje vozilom ulijevo ili udesno nakon propuštanja propuštanja svih vozila koja se kreću putem na koji se uključujem"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Kako treba postupiti u saobraćajnoj situaciji kao na slici ako vozilom prolazite pored dva postavljena saobraćajna znaka?",
+  "odgovori":["prilagoditi brzinu kretanja vozila tako da ona ne prelazi 50 km/h","obratiti pažnju na pješake, jer saobraćajni znak ukazuje na blizinu pješačkog prelaza","nastaviti kretanje vozilom uz prethodno propuštanje pješaka"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako ćete postupiti u saobraćajnoj situaciji kao na slici ako kretanje vozilom nastavljate pravo, na raskrsnici puteva iste važnosti na kojoj uređaji za davanje svjetlosnih saobraćajnih znakova nisu u funkciji?",
+  "odgovori":["pažljivo proći vozilom kroz raskrsnicu","propustiti vozila koja dolaze i sa lijeve i sa desne strane","propustiti vozila koja dolaze sa desne strane","propustiti vozila iz suprotnog smjera koja namjeravaju skrenuti ulijevo"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"U saobraćajnoj situaciji kao na slici učesnici u saobraćaju će proći kroz raskrsnicu sljedećim redoslijedom:",
+  "odgovori":["oba bicikla, crveni automobil, zeleni automobil","zeleni automobil, crveni automobil, pa bicikli","oba bicikla, zeleni automobil, crveni automobil"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"U saobraćanoj situaciji kao na slici, vozač vozila koje se nalazi u srednjoj saobraćajnoj traci:",
+  "odgovori":["mora nastaviti kretanje vozilom pravo, jer nije pravovremeno izvršio radnju prestrojavanja","ne smije izvršiti radnju skretanja ulijevo, jer čini prekršaj","sačekat će sva vozila da skrenu ulijevo, a potom izvršiti radnju skretanja ulijevo"],
+  "tacno":1
+}]

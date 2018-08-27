@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Sedmično vrijeme vožnje ne smije biti duže od?",
+  "odgovori":["48 sati","56 sati"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Zimsku opremu za vozila čija najveća dozvoljena masa prelazi 3.500 kg i autobuse čine?",
+  "odgovori":["zimski pneumatici na pogonskim točkovima","lanci za snijeg, lopata, vreća pijeska","pneumatici sa ekserima"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Opasne materije mogu da prevoze samo lica koja su, pored drugih zakonom propisanih uslova:",
+  "odgovori":["navršila 21 godinu života","navršila 18 godina života","stručno osposobljena za rukovanje i prevoz opasnih materija"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Vozač koji upravlja autobusom ili teretnim motornim vozilom ili skupom vozila čija je najveća dozvoljena masa veća od 3.500 kg ne smije neprekidno upravljati vozilom duže od 4,5 h, nakon čega mora da koristi odmor u trajanju od:",
+  "odgovori":["30 min","45 min","1h "],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kandidat za vozača CE kategorije može polagati ispit iz upravljanja motornim vozilom ako priključno vozilo ima nosivost od:",
+  "odgovori":["najmanje 2.500 kg","najmanje 3.000 kg"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kada teretno motorno vozilo (osim tegljača namijenjenih za vuču poluprikolica) mora biti obilježeno oznakom za teško motorno vozilo?",
+  "odgovori":["ako najveća dopuštena masa prelazi 12.000 kg","ako najveća dopuštena masa prelazi 7.500 kg","ako najveća dopuštena masa prelazi 3.500 kg"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kada priključna vozila moraju biti obilježena oznakama za duga priključna vozila?",
+  "odgovori":["kad dužina, uključujući i rudu, prelazi 8 m, a najveća dopuštena masa manja je ili jednaka 10.000 kg","kad je najveća dopuštena masa, bez obzira na dužinu priključnog vozila, veća od 10.000 kg","sva priključna vozila moraju nositi oznaku za duga vozila"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Klinasti podmetači obavezni su za sva motorna i priključna vozila čija najveća dopuštena masa prelazi:",
+  "odgovori":["5 t","7,5 t"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Potvrda o slobodnom vremenu je:",
+  "odgovori":["obrazac o evidenciji i razlozima ne korišćenja slobodnog vremena i odsustva vozača","unifikovani obrazac o evidenciji i razlozima korišćenja slobodnog vremena i odsustva vozača, koju izdaje poslodavac"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Vozač teretnog motornog vozila čija je najveća dozvoljena masa veća od 3.500 kg prije početka svoga radnog dana mora imati neprekidan odmor od najmanje:",
+  "odgovori":["8 h","11 h","12 h"],
+  "tacno":2
+}]

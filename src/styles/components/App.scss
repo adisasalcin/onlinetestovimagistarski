@@ -1,0 +1,329 @@
+* {
+  box-sizing: border-box;
+}
+.vertikalni_meni{
+  overflow: auto;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.naslovi{
+  color: white;
+  background: #3f51b5;
+  color: white;
+  font-size: 18px;
+  padding: 0.5em;
+  letter-spacing: 1px;
+  @media(max-width: 700px){
+    font-size: 15px;
+  }
+
+}
+
+.opistestova{
+  text-align: justify;
+  width: 620px;
+  @media(max-width: 700px){
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+  }
+}
+
+
+section {
+    margin: 15px auto;
+    width: 650px;
+    @media(max-width: 700px){
+      width: 95%;
+      margin: 10px;
+      padding: 5px;
+
+    }
+}
+
+
+.homepage {
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  height: 100%;
+
+}
+
+.logo{
+   margin-right: 5px;
+}
+
+.avatar-slika{
+  height: 250px;
+  padding-top:5em;
+}
+
+.baner-text {
+  background: #0575E6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #021B79, #0575E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  opacity:  .9;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+  @media(max-width: 700px){
+    width: 85%;
+  }
+}
+.baner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: white;
+  @media(max-width: 700px){
+    font-size: 40px;
+  }
+}
+
+.baner-text hr{
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.baner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+  @media(max-width: 700px){
+    font-size: 15px;
+  }
+}
+
+.mreze-linkovi {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+  @media(max-width: 700px){
+      justify-content: center;
+  }
+}
+.plutanje{
+  float:left;
+}
+.mreze-linkovi i {
+  color: white;
+  font-size: 5em;
+  padding:  8px;
+  @media(max-width: 700px){
+    font-size: 3em;
+  }
+}
+.container {
+    margin: 0 auto;
+    padding: 0 1.6rem;
+    max-width: 80rem;
+  }
+
+
+.App {
+    text-align: center;
+    color: #3f3f3f;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes delayFadeOutUp {
+    from, 50% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    to {
+        opacity: 0;
+        transform: scale(1.5);
+    }
+}
+
+
+
+.okvir{
+  text-align: center;
+  width: 800px;
+}
+
+
+.promjenaOut .pitanje {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    animation-name: delayFadeOutUp;
+}
+
+.prikazTesta .brojPitanja {
+    font-weight: bold;
+    text-align: right;
+    font-size: 16px;
+    line-height: .5em;
+}
+
+.prikazTesta .pitanje {
+    font-weight: bold;
+
+    font-size: 20px;
+    margin: 10px auto 20px;
+}
+
+.prikazTesta .odgovori p {
+    -webkit-perspective: 800px;
+    -moz-perspective: 800px;
+    perspective: 800px;
+    margin: 0 10px;
+}
+
+button {
+
+  width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    color: white;
+    background: #3f51b5;
+    cursor: pointer;
+    padding: 14px 28px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    position: relative;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    transform-style: preserve-3d;
+    text-align: center;
+
+}
+
+    .prikazTesta .odgovori button:before {
+        content: ' ';
+        top: 100%;
+        background: #e96a6a;
+        color: white;
+        font-weight: 500;
+        transform-origin: 0% 0%;
+        transform: rotateX(-90deg);
+
+    }
+
+    .prikazTesta .odgovori button:after {
+        content: ' ';
+        top: -98%;
+        background: #7aca7c;
+        color: white;
+        transform-origin: 0% 100%;
+        transform: rotateX(90deg);
+
+    }
+
+    .prikazTesta .odgovori button.tacno {
+        background: #aaa;
+        transform-origin: 50% 100%;
+        transform: rotateX(-90deg) translateY(100%);
+
+    }
+
+    .prikazTesta .odgovori button.netacno {
+        background: #aaa;
+        transform-origin: 50% 0%;
+        transform: rotateX(90deg) translateY(-100%);
+    }
+
+.prikazRezultata {
+    text-align: center;
+}
+
+    .prikazRezultata h2 {
+        text-align: left;
+        border-bottom: 1px solid;
+    }
+
+    .prikazRezultata .bodovanje {
+        text-align: left;
+        margin-top: -8px;
+    }
+
+    .prikazRezultata .rezultat {
+        text-align: left;
+        position: relative;
+        margin: 50px 0;
+    }
+
+    .prikazRezultata .pitanje {
+        font-weight: bold;
+    }
+
+    .prikazRezultata .odgovorTacnoNetacno {
+        margin: 10px 0;
+        color: #676767;
+    }
+
+    .prikazRezultata .rezultat:before {
+        font-size: 2em;
+        position: absolute;
+        left: -50px;
+    }
+
+    .prikazRezultata .rezultat.tacno:before {
+        content: '\002714';
+        color: #7aca7c;
+        top: -20px;
+    }
+
+    .prikazRezultata .rezultat.netacno:before {
+        content: '\2716';
+        color: #e96a6a;
+        top: -18px;
+    }
+
+        .prikazRezultata .odgovorTacnoNetacno b {
+            color: #545454;
+            font-size: 1.1em;
+        }
+
+    .prikazRezultata .explanation {
+        font-size: 1.1em;
+        margin-bottom: 20px;
+    }
+
+    .prikazRezultata .oznaka {
+        background-repeat: no-repeat;
+        display: inline-block;
+        margin: 10px auto;
+        text-align: center;
+        font-size: 3em;
+        color: white;
+        text-shadow: 0 0 5px black;
+        border: 14px solid #205;
+        border-radius: 100%;
+        background-position: center center;
+        box-shadow: 5px 5px 15px black;
+    }
+
+button:after, button:before {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    line-height: 70px;
+
+}
+
+    button:hover {
+        box-shadow: inset 0 0 10px;
+    }

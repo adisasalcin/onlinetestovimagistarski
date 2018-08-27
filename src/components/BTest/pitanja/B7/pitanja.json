@@ -1,0 +1,120 @@
+[{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je:",
+  "odgovori":["zabrana održavanja sportskih priredbi na putu","prevrtanje ili iskliznuće vozila sa kolovoza"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je:",
+  "odgovori":["obavezno zaustavljanje","nailazak na put sa prvenstvom prolaza."],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je:",
+  "odgovori":["najveće odstojanje  između vozila","najmanje odstojanje između vozila"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je:",
+  "odgovori":["zabrana saobraćaja za sva motorna vozila","zabrana saobraćaja za sva motorna vozila, osim mopeda"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["brzina koja je preporučena","najmanja dopuštena brzina kretanja vozila","ograničenje brzine"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["obavezno se prestrojiti u desnu saobraćajnu traku","najava završetka preticanja"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koja motorna vozila je dozvoljeno preticati na putu označenim ovim saobraćajnim znakom?",
+  "odgovori":["motocikl bez prikolice i moped","putničko vozilo"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kako treba postupiti nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["obavezno zaustaviti vozilo","povećati pažnju","smanjiti brzinu kretanja vozila tako da se u slučaju potrebe može blagovremeno izvršiti radnja kočenja i zaustavljanja","nastaviti kretanje vozilom bez smanjenja brzine kretanja"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Kako treba postupiti nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["obavezno zaustaviti vozilo","nastaviti kretanje vozilom sa naročitom opreznošću","smanjiti brzinu kretanja vozila tako da se u slučaju potrebe može blagovremeno izvršiti radnja kočenja i zaustavljanja","nastaviti kretanje vozilom bez smanjenja brzine kretanja"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["dozvoljeni smjer","put sa jednosmjernim saobraćajem","obavezno obilaženje sa desne strane"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Kako trebate postupiti u saobraćajnoj situaciji kao na slici prilikom dolaska na raskrsnicu?",
+  "odgovori":["proći prvi kroz raskrsnicu","proći drugi kroz raskrsnicu, nakon propuštanja bijelog vozila","proći posljednji kroz raskrsnicu"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Kako trebate postupiti u saobraćajnoj situaciji kao na slici prilikom dolaska na raskrsnicu?",
+  "odgovori":["zaustaviti se i propustiti oba vozila","proći prvi kroz raskrsnicu jer sam cvenom vozilu sa desne strane","propustiti crveno vozilo, a zatim proći kroz raskrsnicu istovremeno sa autobusom"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Kako trebate postupiti u saobraćajnoj situaciji kao na slici prilikom dolaska na raskrsnicu?",
+  "odgovori":["obavezno se zaustaviti","nastaviti kretanje vozilom ulijevo, nakon propuštanja vozila koja dolaze sa desne strane","nakon što se na semaforu upali zeleno svjetlo, nastaviti kretanje vozilom ulijevo","nakon što se na semaforu upali zeleno svjetlo, nastaviti kretanje udesno"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako ćete postupiti u saobraćajnoj situaciji kao na slici?",
+  "odgovori":["povećati pažnju zbog nailaska na ukrštanje odnosno spajanje puta sa prednošću prolaska sa sporednim putem","obavezno nastaviti kretanje vozilom pravo","skrenuti udesno na sporedni put ili nastaviti kretanje vozilom pravo"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako ćete postupiti u saobraćajnoj situaciji kao na slici?",
+  "odgovori":["obratiti pažnju na moguću djecu na putu ili u blizini puta, a brzinu kretanja vozila prilagoditi trenutnim uslovima saobraćaja, s tim da brzina ne smije biti veća od brzine određene saobraćajnim znakom","obratiti pažnju samo ako se djeca nalaze na putu, a brzinu prilagoditi trenutnim uslovima saobraćaja"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako treba postupiti vozač motocikla u saobraćajnoj situaciji kao na slici, ako je na vozilu javnog gradskog prevoza putnika uključen lijevi pokazivač smjera?",
+  "odgovori":["nije dužan omogućiti autobusu uključivanje u saobraćaj","dužan je omogućiti autobusu uključivanje u saobraćaj","nije dužan omogućiti autobusu uključivanje u saobraćaj jer se autobus nalazi na sporednom putu"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"U saobraćajnoj situaciji kao na slici vozač putničkog automobila:",
+  "odgovori":["ne smije da izvrši radnju kretanja vozilom unazad, jer čini prekršaj","smije izvršiti radnju kretanja vozilom unazad, jer se nalazi neposredno uz mjesto za zaustavljanje vozila"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["autobus, kamion, motocikl","motocikl, autobus, kamion","motocikl i kamion istovremeno, pa autobus","motocikl, kamion, autobus"],
+  "tacno":4
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["tramvaj, motocikl, putnički automobil","tramvaj, a zatim istovremeno putnički automobil i motocikl","motocikl, putnički automobil, tramvaj","motocikl, tramvaj, putnički automobil"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koje vozilo će u saobraćajnoj situaciji kao na slici posljednje proći kroz raskrsnicu?",
+  "odgovori":["motocikl","policijsko vozilo koje drugom policijskom vozilu dolazi sa desne strane","policijsko vozilo koje se nalazi na putu sa prvenstvom prolaza"],
+  "tacno":1
+}]

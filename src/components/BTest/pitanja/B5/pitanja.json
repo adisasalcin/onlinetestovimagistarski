@@ -1,0 +1,240 @@
+[{
+  "level":1,
+  "pitanje":"Ako teret na vozilu prelazi više od jednog metra, najudaljeniju tačku na zadnjoj strani vozila, najisturenija tačka tereta na vozilu mora biti označena:",
+  "odgovori":["tablom kvadratnog oblika dimenzije 50x50 cm reflektujuće narandžaste i bijele boje","crvenom tkaninom","crvenom tkaninom i uključivanjem svih pokazivača smjera"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Da li oznake na kolovozu spadaju u saobraćajne znakove?",
+  "odgovori":["ne","da"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Odstojanje između vučnog i vučenog motornog vozila ako se vuče pomoću užeta mora iznositi:",
+  "odgovori":["od 3 m do 5 m","preko 2 m","manje od 3 m"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Vozač ne smije da zaustavi ili parkira vozilo na raskrsnici i na razdaljini od najbliže ivice poprečnog kolovoza manjoj od:",
+  "odgovori":["3 m","5 m","15 m"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Lice koje upravlja zaprežnim vozilom je?",
+  "odgovori":["vozač vozila koje vuče upregnuta životinja","vozač motornog vozila"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Saobraćajna traka za vozila javnog gradskog prevoza je:",
+  "odgovori":["obilježeni uzdužni dio kolovoza na autoputevima i na određenim mjestima na putevima višeg ranga, kao i u tunelima i galerijama, namijenjena za prinudno zaustavljanje vozila","obilježeni uzdužni dio kolovoza namijenjen za vozila javnog gradskog prevoza putnika, kad su u vozilu putnici"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Da li je dozvoljeno preticati niz vozila koji čine dvije radne mašine, jedan traktor i dva bicikla?",
+  "odgovori":["dozvoljeno je","nije dozvoljeno"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Gas, kao pogonsko gorivo za vozila, je:",
+  "odgovori":["ukapljeni naftni gas, smjesa propana i butana (LPG)","svako pogonsko gorivo dovoljnog stepena isparavanj","komprimirani prirodni gas (CNG)"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"U kojem slučaju će vozaču biti oduzeta vozačka dozvola u trajanju od 60 dana?",
+  "odgovori":["ako mu, u roku od jedne godine, zbog učinjenih prekršaja iz Zakona o osnovama bezbjednosti saobraćaja na putevima u BiH bude određeno najmanje 10 kaznenih bodova","ako mu, u roku od dvije godine, zbg učinjenih prekršaja iz Zakona o osnovama bezbjednosti saobraćaja na putevima u BiH ponovo bude određeno najmanje 10 kaznenih bodova"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Radnja preticanja i obilaženja se, po pravilu, obavlja:",
+  "odgovori":["sa obje strane, vozilom kojim se pretiče ili obilazi","sa lijeve strane vozila koje se pretiče ili obilazi","sa desne strane vozila koje se pretiče ili obilazi"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Da li vozač koji upravlja vozilom kroz tunel smije da zaustavi vozilo u tunelu?",
+  "odgovori":["da","ne","da, ako uključi uređaj za uključivanje svih pokazivača smjera"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Da li je vučenim vozilom, osim lica koje upravlja vučenim vozilom, dozvoljeno prevoziti druga lica?",
+  "odgovori":["ne","da"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koja vozila ne smiju da se kreću autoputem?",
+  "odgovori":["vozila koja se prema odredbama Zakona o osnovama bezbjednosti saobraćaja na putevima u BiH ne smatraju motornim vozilima","vozila koja prema svojim konstrukcionim osobinama mogu da se kreću brzinom većom od 40 km/h"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Na kojoj razdaljini od obilježenog pješačkog prelaza vozač ne smije da zaustavi ili parkira vozilo?",
+  "odgovori":["manjoj od 5 m","manjoj od 15 m"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Gdje se na putu postavljaju smjerokazni stubići sa bijelim reflektujućim katadiopterom?",
+  "odgovori":["uz desnu ivicu kolovoza","uz lijevu ivicu kolovoza","samo ispred opasnih krivina"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Ako je vozač zbog saobraćajne nezgode prinuđen da zaustavi ili parkira vozilo na obilježenom pješačkom prelazu ili na razdaljini manjoj od 5 m od tog prelaza, u naselju, dužan je:",
+  "odgovori":["postaviti znak kojim se označava zaustavljeno vozilo na kolovozu (bezbjednosni trokut), iza zaustavljenog vozila, u vertikalnom položaju, na udaljenosti manjoj od 10 metara","postaviti znak kojim se označava zaustavljeno vozilo na kolovozu (bezbjednosni trokut), iza zaustavljenog vozila, u vertikalnom položaju, na udaljenosti koja ne smije biti manja od 10 metara","postaviti znak kojim se označava zaustavljeno vozilo na kolovozu (bezbjednosni trokut), iza zaustavljenog vozila, u vertikalnom položaju, na udaljenosti koja ne smije biti manja od 50 metara"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Znakovi po kojima su dužni postupati svi učesnici u saobraćaju, moraju se ponovo postaviti nakon svakog ukrštanja puteva, odnosno spajanja sa drugim putem, i to:",
+  "odgovori":["znakovi opasnosti","znakovi izričitih naredbi, ako izričita naredba važi i poslije takvog ukrštanja"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Da li se na znakovima turističke signalizacije mogu koristiti simboli koji se upotrebljavaju na saobraćajnim znakovima iz grupe znakova obavještenja?",
+  "odgovori":["da","ne"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"U kojem periodu vozač može preuzeti privremeno oduzetu vozačku dozvolu od organa čije je ovlašteno lice dozvolu oduzelo?",
+  "odgovori":["u roku od 48 h","u roku od 24 h","u roku od tri dana"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Oprema, znakovi i oznake za označavanje radova, prepreka i oštećenja kolovoza spadaju u:",
+  "odgovori":["saobraćajnu opremu puta","svjetlosnu saobraćajnu signalizaciju i svjetlosne oznake","horizontalnu saobraćajnu signalizaciju na kolovozu i drugim površinama"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je:",
+  "odgovori":["zabrana saobraćaja za vozila koja prevoze opasne materije","zabrana saobraćaja za teretna vozila koja prevoze opasne materije"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je:",
+  "odgovori":["zabrana saobraćaja za vozila koja prekoračuju određeno dvoosovinsko opterećenje","zabrana saobraćaja za vozila čije opterećenje po jednostrukoj osovini prelazi opterećenje označeno na znaku"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je:",
+  "odgovori":["pješačka staza","zona smirenog saobraćaja"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je:",
+  "odgovori":["put sa jednosmjernim saobraćajem","obavezan smjer"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koja vozila se obilježavaju oznakom kao na slici?",
+  "odgovori":["duga vozila","vozila čija širina prelazi 2,5 m"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Šta može imati za posljedicu nepoštovanje ovog znaka?",
+  "odgovori":["moguće zanošenje i izlijetanje vozila sa kolovoza","veću kontrolu prilikom upravljanja vozilom","moguće oštećenje ili lomljenje dijelova na vozilu"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je?",
+  "odgovori":["pokretni most","blizina obale"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je?",
+  "odgovori":["životinje na putu","divljač na putu"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je?",
+  "odgovori":["zabrana preticanja svih motornih vozila, osim motocikla bez prikolice i mopeda","zabrana preticanja svih motornih vozila, osim mopeda"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kojim vozilima nije dozvoljeno kretanje putem označenim ovim saobraćajnim znakom?",
+  "odgovori":["vozilima čija ukupna visina premašuje visinu označenu na znaku","vozilima čija ukupna visina ne premašuje visinu označenu na znaku"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-3-1","1-3-2","2-1-3"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["3-2-1","3-1-2","1-2-3"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["1-2-3","3-1-2","2-1-3"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["3-2-1","2-1-3","1-2-3"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["3-2-1","2-1-3","1-3-2"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["3-1-2","2-1-3","1-3-2"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-1-3","3-2-1","1-3-2"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["1-2-3","2-3-1","3-2-1"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-1-3-4","1-2-3-4","1-2-4-3"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koji je redoslijed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["1-3-2","3-2-1","2-3-1"],
+  "tacno":3
+}]

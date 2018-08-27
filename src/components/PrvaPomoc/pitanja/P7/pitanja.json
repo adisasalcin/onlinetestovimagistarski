@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Prelomi kostiju mogu biti:",
+  "odgovori":["Otvoreni i zatvoreni","Otvoreni, zatvoreni i kombinovani","Linijski i ugaoni"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kontuzije su:",
+  "odgovori":["Nagnječenja mekih tkiva","Povrede glave","Strana tijela u disajnim putevima"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Sredstva za pružanje prve pomoći mogu biti:",
+  "odgovori":["Standardna","Standardna i improvizovana","Improvizovana"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"U kom položaju se transportuje osoba koja krvari iz usta?",
+  "odgovori":["U ležećem položaju sa glavom nagnutom naprijed","U sjedećem položaju sa glavom nagnutom naprijed, šakama postavljenim na obraze i laktovima postavljenim na koljenima","U ležećem položaju sa glavom nagnutom naprijed, šakama postavljenim na obraze i laktovima postavljenim na koljenima"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kada se koristi Esmarhova poveska?",
+  "odgovori":["Kod povrede glave","Kod transporta povrijeđenih","Kod amputiranih i smrskanih ekstremiteta"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Simptomi i znaci krvarenja mogu biti?",
+  "odgovori":["Lokalni i opšti","Lokalni","Opšti"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kod svakog krvarenja prvo:",
+  "odgovori":["Napravimo digitalnu kompresiju","Uzimamo anamnezu","Izmjerimo krvni pritisak"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koliko osoba vrši prenošenje povrijeđenog sa povredom kičmenog stuba?",
+  "odgovori":["Na vrši se prenošenje","Kod povrede kičmenog stuba prenošenje vrši 4-5 osoba","Prenošenje vrši 5-10 osoba"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Trijaža je:",
+  "odgovori":["Određivanje povrede prema redovima hitnosti","Efikasno zbrinjavanje povreda","Učenje prve pomoći"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Unesrećenog koji ima znake iskrvavljenja stavljamo u:",
+  "odgovori":["Bočni položaj","Ležeći na leđa","Položaj autotransfuzije (ležeći na leđima sa podignutim nogama i rukama)"],
+  "tacno":3
+}]

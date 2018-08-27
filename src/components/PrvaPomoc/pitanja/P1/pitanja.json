@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Definicija krvarenja je:",
+  "odgovori":["isticanje krvi iz krvnih sudova","zgrušavanje krvi u krvnom sudu","isticanje krvi iz pluća"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kod arterijskog krvarenja imamo:",
+  "odgovori":["krv istice lagano i prelijeva se preko ruba rane","krv je svijetlocrvene boje i istice u mlazevima","krv je tamno crvene boje"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Prvu pomoć na licu mjesta pruža",
+  "odgovori":["Doktor","Osoba ili osobe koje se zateknu na licu mjesta","Zdravstveni radnici"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kod osobe koja je jako iskrvarila imamo:",
+  "odgovori":["jako povišen krvni pritisak","jako usporen puls","ubrzano i nepravilno disanje"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Život unesrećenog najviše ugrožava:",
+  "odgovori":["Prestanak disanja, besvjesno stanje i jako krvarenje","Prelom kičmenog stuba","Udarac u glavu tupim predmetom"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Prelom je:",
+  "odgovori":["odvajanje ruke ili noge od tijela","uvrtanje ruke oko svoje osovine","prekid cjelovitosti kosti"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Imobilizacija je:",
+  "odgovori":["stavljanje povrijeđenog dijela tijela u stanje mirovanja","stavljanje povrijeđenog na bok","stavljanje povrijeđenog na stomak i hitan transport"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Osnovno pravilo pri imobilizaciji je:",
+  "odgovori":["da se imobilišu dva susjedna zgloba","da se imobilišu tri susjedna zgloba","da se imobiliše samo jedan zglob"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Otvoreni prelom se karakteriše:",
+  "odgovori":["kosti su samo napukle i nema deformiteta","prelom dvije kosti i unutrašnje krvarenje","kada je kost ili dio kosti probili kožu"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Oživljavanje ili reanimacija je niz mjera i postupaka koje poduzimamo da bismo osobu koja ne diše i kod koje srce ne radi:",
+  "odgovori":["pustili da umre","vratili u normalno stanje – život","ubrzali isticanje krvi"],
+  "tacno":2
+}]

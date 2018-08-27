@@ -1,0 +1,240 @@
+[{
+  "level":1,
+  "pitanje":"Pravilnik o tehničkim pregledima podrazumijeva da su laka vozila ona vozila čija najveća dopuštena masa ne prelazi:",
+  "odgovori":["3,5 t","7,5 t"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"U kojem se periodu obavlja redovni tehnički pregled vozila auto-škole koja su starija od 5 godina?",
+  "odgovori":["svaka 3 mjeseca","svakih 6 mjeseci","jednom godišnje"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Ako je vozač prinuđen zaustaviti ili parkirati vozilo na kolovozu sa dvije saobraćajne trake gdje se saobraćaj odvija u oba smjera:",
+  "odgovori":["dužan je obilježiti vozilo posebnim znakom kojim se označava zaustavljeno vozilo na kolovozu (bezbjednosni trokut)","nije dužan obilježiti vozilo posebnim znakom kojim se označava zaustavljeno vozilo na kolovozu (bezbjednosni trokut)","mora uključiti uređaj za istovremeno paljenje svih pokazivača smjera, ako je u motornom vozilu ugrađen taj uređaj"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Da li se, po pravilu, od momenta prijema do momenta predaje opasne materije vozač motornog vozila smije udaljiti od vozila?",
+  "odgovori":["da","ne"],
+  "tacno":2
+  },
+{
+  "level":1,
+  "pitanje":"Motorno vozilo koje vuče vozilo koje prevozi opasne materije, ne smije se kretati brzinom većom od:",
+  "odgovori":["25 km/h","30 km/h","40 km/h"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Koja motorna i priključna vozila moraju imati gabaritna svjetla?",
+  "odgovori":["motorna i priključna vozila čija visina prelazi 2,8 m","motorna i priključna vozila koja su šira od 2,1 "],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Lice koje je položilo vozački ispit i kome je izdata vozačka dozvola za kategoriju vozila A, B ili C1 ne smije dvije godine od dana izdavanja vozačke dozvole upravljati vozilom na autoputu brzinom većom od:",
+  "odgovori":["130 km/h","70 km/h","100 km/h","120 km/h"],
+  "tacno":4
+},
+{
+  "level":1,
+  "pitanje":"Vuča natovarenog teretnog vozila sa priključnim vozilom ili bez priključnog vozila, odnosno traktora sa priključnim vozilom dozvoljena je samo:",
+  "odgovori":["do prvog mjesta pogodnog za pretovar tereta","izuzetno i do prvog mjesta na kojem može da se otkloni kvar na vozilu","vuča natovarenog teretnog vozila nije dozvoljena","vuča natovarenog teretnog vozila je dozvoljena bez ikakvih uslova"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Teret na vozilu ne smije da pređe najudaljeniju tačku na prednjoj strani vozila za više od:",
+  "odgovori":["0,25 m","0,50 m","1,00 m","jednu šestinu svoje dužine"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Širina motornih i priključnih vozila, uključujući izmjenjive nadgradnje za prihvat tereta, kao i svih uređaja koji se pri vožnji nalaze na vozilu, izuzimajući uređaje za čišćenje snijega i vozila namijenjenih za zimsko održavanje puteva, može biti maksimalne vrijednosti:",
+  "odgovori":["2,00 m","2,50 m","2,55 m","4,50 m"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Teret koji se prevozi na vozilu i priključnom vozilu može da pređe najudaljeniju tačku na zadnjoj strani vozila najviše za:",
+  "odgovori":["jednu šestinu svoje dužine koja je kao kontinuiran teret oslonjena na tovarni prostor","jednu petinu svoje dužine koja je kao kontinuiran teret oslonjena na tovarni prostor","jednu četvrtinu svoje dužine koja je kao kontinuiran teret oslonjena na tovarni prostor"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Vozača na vanredni ljekarski pregled rješenjem upućuje:",
+  "odgovori":["radnik policije","organ kod koga se vozač vodi u evidenciji","nadležna zdravstvena organizacija"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Visina motornih i priključnih vozila, uključujući izmjenjive nadgradnje za prihvatanje tereta kao i svih uređaja koji se pri vožnji nalaze na vozilu, može imati maksimalnu vrijednost:",
+  "odgovori":["5,00 m","4,00 m","3,00 m","4,50 m"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Ako se na putu kreću dva ili više vozila koja prevoze opasne materije, odstojanje između tih vozila ne smije biti manje od:",
+  "odgovori":["150 m","200 m","280 m"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Ako teret na motornom ili priključnom vozilu sa bočne strane prelazi više od 20 cm vanjsku ivicu prednjeg ili zadnjeg svjetla za označavanje vozila mora se, noću, kao i danju u slučaju smanjene vidljivosti, označiti svjetlom i katadiopterima koji:",
+  "odgovori":["sa prednje strane daju bijelo a sa zadnje crveno svjetlo","sa prednje strane daju bijelo a sa zadnje narandžasto svjetlo","sa prednje i zadnje strane daju bijelo svjetlo"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Vuča neispravnog vozila koje je natovareno opasnim materijama, obavlja se pomoću:",
+  "odgovori":["užeta","automatskih vučnih kuka sa višestepenovanom regulacijom","krute veze (rude)","oslanjanjem ili vješanjem vozila na vučno vozilo"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Vozač ne čini povredu propisa ako teret na vozilu kojim upravlja prelazi najudaljeniju tačku na prednjoj strani vozila:",
+  "odgovori":["više od 1 m ali ne više od 2 m, ako je prednji dio tereta obilježen crvenom tkaninom","za 80 cm","za 100 cm","za dužinu koja nije propisana, ako je prednji dio tereta obilježen odgovarajućom tablom"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Ako je odgovarajućom metodom utvrđeno da vozač u krvi ima 0,2 g/kg, smatra se da je pod dejstvom alkohola ukoliko upravlja vozilom:",
+  "odgovori":["bilo koje kategorije","kategorija C ili CE","kategorija D ili DE","kategorije A"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Da li se u zatvorenom prostoru vozila koje se ne može otvoriti iznutra smiju prevoziti lica?",
+  "odgovori":["da","ne"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Da li se na vozila smiju postavljati gume sa ekserima?",
+  "odgovori":["da","ne"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["mjesto na kojem se nalazi obilježeni pješački prelaz","blizina mjesta na kojem se nalazi obilježeni pješački prelaz","posebno izgrađena pješačka staza"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Sta označava crvena kontrolna lampica ako vam se upali za vrijeme kretanja vozilom, kao na slici?",
+  "odgovori":["kvar u sistemu za punjenje akumulatora","kvar u sistemu za osvjetljenje puta"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["ukrštanje puteva iste važnosti","ukrštanje puta sa sporednim putem pod pravim uglom"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["blizina raskrsnice na kojoj se saobraćaj odvija kružno","kružni tok saobraćaja"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kako ćete postupiti prilikom nailaska na saobraćajni znak sa dopunskom tablom, ukoliko nastavljate kretanje vozilom pravo?",
+  "odgovori":["propustiću vozila koja se nalaze na putu sa prvenstvom prolaza","obavezno ću se zaustaviti","propustiću samo vozila sa desne strane"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["da upravljamo vozilom po jednosmjernom putu","da ne smijemo skrenuti udesno ili ulijevo","da je zabranjen saobraćaj iz suprotnog smjera"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kako postupate za vrijeme upravljanja vozilom nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["smanjujete brzinu kretanja vozila jer nailazite na oštru krivinu udesno","izbjegavate kočenje u krivini","povećavate brzinu kretanja vozila"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["zabrana prelaza za bicikl","obilježeni prelaz biciklističke staze"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Kako treba postupiti prilikom nailaska vozilom na ovlašteno lice koje u vašem smjeru kretanja daje znak kao na slici?",
+  "odgovori":["izvršiti radnju skretanja udesno","izvršiti radnju skretanja ulijevo","obavezno se zaustaviti"],
+  "tacno":3
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak?",
+  "odgovori":["mjesto gdje se nailazi na oštru krivinu","mjesto gdje se nailazi na blagu krivinu","mjesto gdje se izvode radovi na putu"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako ćete postupiti u saobraćajnoj situaciji kao na slici ako se vozač autobusa uključuje sa autobuskog stajalista u saobraćaj?",
+  "odgovori":["smanjiti brzinu kretanja vozila","povećati brzinu kretanja vozila i proći prije autobusa","po potrebi zaustaviti vozilo i omogućiti vozaču autobusa da se bezbjedno uključi u saobraćaj"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako ćete postupiti, ako je autobus, označen kao na slici, zaustavljen na kolovozu zbog ulaska i izlaska djece?",
+  "odgovori":["ako se krećem vozilom iza autobusa, zaustaviti se","ako se krećem vozilom iza autobusa, nastaviti kretanje vozilom","ako se krećem vozilom u susret autobusu, nastaviti kretanje vozilom","ako se krećem vozilom u susret autobusu, zaustaviti se"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako trebate postupiti u saobraćajnoj situaciji kao na slici prilikom približavanja raskrsnici?",
+  "odgovori":["propustiti vozilo koje dolazi iz suprotnog smjera kretanja, i ima namjeru izvršiti radnju skretanja udesno","proći prvi kroz raskrsnicu","proći drugi kroz raskrsnicu","propustiti vozilo koje dolazi sa desne strane"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako trebate postupiti u saobraćajnoj situaciji kao na slici?",
+  "odgovori":["proći prvi kroz raskrsnicu jer nemate nikoga sa desne strane","propustiti vozilo koje dolazi sa lijeve strane","propustiti vozilo koje dolazi iz suprotnog smjera kretanja","proći drugi kroz raskrsnicu"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Kako trebate postupiti u saobraćajnoj situaciji kao na slici?",
+  "odgovori":["propustiti crveno vozilo","proći kroz raskrsnicu prije crvenog vozila","proći istovremeno sa crvenim vozilom kroz raskrsnicu"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako trebate postupiti u saobraćajnoj situaciji kao na slici?",
+  "odgovori":["proći prvi kroz raskrsnicu jer nastavljate kretanje vozilom pravo","propustiti oba vozila","proći drugi kroz raskrsnicu","propustiti samo crveni automobil"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Kako ćete postupiti ako se krećete putem na kome se izvode radovi u saobraćajnoj situaciji kao na slici?",
+  "odgovori":["zaustaviti se jer se izvode radovi na saobraćajnoj traci kojom se krećem vozilom","nastaviti kretanje vozilom jer je na semaforu upaljeno zeleno svjetlo"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Kako ćete postupiti u saobraćajnoj situaciji kao na slici ukoliko upravljate crnim utomobilom?",
+  "odgovori":["obavezno se zaustaviti","nastaviti kretanje vozilom uz povećani oprez","obavezno izvršiti radnju skretanja udesno"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Kako ćete postupiti na raskrsnici u saobraćajnoj situaciji kao na slici?",
+  "odgovori":["propustiti pješake koji prelaze preko pješačkog prelaza","proći prije pješaka","propustiti tramvaj koji dolazi iz suprotnog smjera"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako ćete postupiti na raskrsnici u saobraćajnoj situaciji kao na slici?",
+  "odgovori":["proći prvi kroz raskrsnicu","propustiti oba vozila","propustiti samo crveno vozilo"],
+  "tacno":2
+}]

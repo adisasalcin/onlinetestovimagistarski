@@ -1,0 +1,59 @@
+[{
+  "level":1,
+  "pitanje":"U slučaju kad vozilo nije opremljeno tahografom, a isto se koristi za obavljanje unutrašnjeg linijskog prevoza putnika na linijama ukupne udaljenosti do 50 km, vozač mora imati u vozilu:",
+  "odgovori":["izvod iz rasporeda dužnosti i primjerak voznog reda","samo izvod iz rasporeda dužnosti"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Udvojena posada je:",
+  "odgovori":["posada koju čine četiri vozača","posada koju čine dva vozača (vozač koji upravlja vozilom i vozač u pripravnosti)"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Uređaj za davanje zvučnih signala ugrađen na motorna vozila koja spadaju u kategoriju/podkategoriju D i D1, mora proizvoditi zvukove jačine najmanje:",
+  "odgovori":["90 dB(A)","93 dB(A)"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Javni prevoz u drumskom saobraćaju:",
+  "odgovori":["može se vršiti samo motornim vozilima","može se vršiti motornim i zaprežnim vozilima"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Ukupno dnevno vrijeme upravljanja autobusom u međugradskom saobraćaju ne smije biti duže od:",
+  "odgovori":["4,5 h","7 h","9 h"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Kolika je najveća dozvoljena dužina autobusa sa dvije osovine uključujući i pripadajuće dijelove koji se mogu skinuti?",
+  "odgovori":["13,50 m","15,00 m"],
+  "tacno":1
+},{
+  "level":1,
+  "pitanje":"U kojem slučaju autobus, osim autobusa za gradski saobraćaj, mora biti opremljen sa kočnim antiblokirajućim sistemom (ABS)?",
+  "odgovori":["ako mu najveća dozvoljena masa prelazi 12 t","ako je proizveden poslije 1. januara 1994. godine","ako mu najveća dozvoljena masa prelazi 9 t"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kandidat za vozača DE kategorije može polagati ispit iz upravljanja motornim vozilom ako prikolica ima najveću dozvoljenu masu od:",
+  "odgovori":["najmanje 1.000 kg","najmanje 1.250 kg"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Koliko kandidata za vozača D kategorije može ispitati ispitivač tokom jednog dana?",
+  "odgovori":["6 kandidata","8 kandidata"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koliko kutija prve pomoći mora imati autobus sa više od 25 mjesta za sjedenje?",
+  "odgovori":["jedna kutija","dvije kutije","tri kutije"],
+  "tacno":2
+}]

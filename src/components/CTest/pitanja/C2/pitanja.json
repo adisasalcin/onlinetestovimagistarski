@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Kandidat za vozača CE kategorije može polagati ispit iz upravljanja motornim vozilom ako priključno vozilo ima nosivost od:",
+  "odgovori":["najmanje 2.500 kg","najmanje 3.000 kg"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Najveća dozvoljena masa skupa vozila C1E potkategorije ne smije preći:",
+  "odgovori":["10.500 kg","12.000 kg"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kada teretno motorno vozilo (osim tegljača namijenjenih za vuču poluprikolica) mora biti obilježeno oznakom za teško motorno vozilo?",
+  "odgovori":["ako najveća dopuštena masa prelazi 12.000 kg","ako najveća dopuštena masa prelazi 7.500 kg","ako najveća dopuštena masa prelazi 3.500 kg"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kada priključna vozila moraju biti obilježena oznakama za duga priključna vozila?",
+  "odgovori":["kad dužina, uključujući i rudu, prelazi 8 m, a najveća dopuštena masa manja je ili jednaka 10.000 kg","kad je najveća dopuštena masa, bez obzira na dužinu priključnog vozila, veća od 10.000 kg","sva priključna vozila moraju nositi oznaku za duga vozila"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Klinasti podmetači obavezni su za sva motorna i priključna vozila čija najveća dopuštena masa prelazi:",
+  "odgovori":["5 t","7,5 t"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"U potkategoriju C1 ubrajaju se motorna vozila za prevoz tereta čija najveća dozvoljena masa ne prelazi:",
+  "odgovori":["3 500 kg","7 000 kg","7 500 kg"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Da li za vrijeme upravljanja vozilom kategorija C i D vozač smije da ima alkohola u krvi?",
+  "odgovori":["da; do 0,5 g/kg","ne","da; do 0,3 g/kg;"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Potvrda o slobodnom vremenu je:",
+  "odgovori":["obrazac o evidenciji i razlozima ne korišćenja slobodnog vremena i odsustva vozača","unifikovani obrazac o evidenciji i razlozima korišćenja slobodnog vremena i odsustva vozača, koju izdaje poslodavac"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Tahograf je uređaj u vozilu koji bilježi:",
+  "odgovori":["silu kočenja vozila","brzinu i pređeni put vozila","vremena rada i odmora vozača"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Vozač teretnog motornog vozila čija je najveća dozvoljena masa veća od 3.500 kg prije početka svoga radnog dana mora imati neprekidan odmor od najmanje:",
+  "odgovori":["8 h","11 h","12 h"],
+  "tacno":2
+}]

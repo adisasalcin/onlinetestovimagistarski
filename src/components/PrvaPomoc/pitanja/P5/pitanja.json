@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Sigurni znaci smrti su:",
+  "odgovori":["Prestanak disanja","Plave usne","Mrtvačke pjege, mačije oko, hlađenje i kočenje"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Jako krvarenje iz rane-amputacija zaustavlja se:",
+  "odgovori":["Primjenom poveske","Postavljanjem kompresivnog zavoja","Podizanjem ruke u zrak"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kompresivni zavoj se upotrebljava:",
+  "odgovori":["kada hoćemo zaustaviti krvarenje","za imobilizaciju preloma","kod težih oblika opekotina"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Na svaku ranu prvo stavljamo:",
+  "odgovori":["Duvan iz cigarete","So","Sterilnu gazu"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Pri pružanju prve pomoći unesrećenom prvo treba:",
+  "odgovori":["Zaustaviti krvarenje","Napraviti imobilizaciju","Dati vode da pije"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Broj policije je:",
+  "odgovori":["122","135","125"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kod sumnje na povredu vratne kičme prvu pomoć pružamo postavljanjem:",
+  "odgovori":["Šancove kragne","Daščica oko glave","Zavoja oko vrata"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Krvarenje iz nosa zaustavljamo:",
+  "odgovori":["Zabacivanjem glave unazad","Stiskanjem krila nosa između palca i kažiprsta i potiskivanjem brade na grudi","Stavljanjem mokre krpe na glavu"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Koliko vremena je potrebno da se utvrdi da li osoba diše?",
+  "odgovori":["5 sekundi","10 sekundi","30 sekundi"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Pri nailasku na mjesto nesreće treba:",
+  "odgovori":["Parkirati vozilo na sigurno mjesto uz upotrebu svjetlosne signalicije, isključiti motor, postaviti znakove sigurnosti, pozvati hitnu pomoć I pristupiti pružanju prve pomoći","Hitno pozvati vatrogasce","Uključiti signalizaciju na automobilu i čekati da naiđe drugo vozilo"],
+  "tacno":1
+}]

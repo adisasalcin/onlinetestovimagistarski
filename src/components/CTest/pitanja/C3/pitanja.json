@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Teret na vozilu treba biti raspoređen i, prema potrebi, pričvršćen i pokriven tako da:",
+  "odgovori":["ne ugrožava bezbjednost učesnika u saobraćaju","ne umanjuje vozaču preglednost puta","ne rasipa se po putu, osim sa desne strane","ne otežava upravljanje vozilom"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kad se na javnom putu van naselja koji ima jednu saobraćajnu traku namijenjenu za saobraćaj vozila u jednom smijeru, kreću jedno za drugim motorna vozila čija je najveća dozvoljena masa veća od 3.500 kg ili čija je dužina veća od sedam metara vozači su dužni da između svakog od tih vozila drže odstojanje od:",
+  "odgovori":["najmanje 100 m i to na dijelu puta gdje je dozvoljeno preticanje","najmanje 500 m i to na dijelu puta gdje je dozvoljeno preticanje","najmanje 200 m, i to na dijelu puta gdje je dozvoljeno preticanje"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Na tovarnom sanduku teretnog motornog vozila dugom 9 m prevoze se željezničke šine koje se kontinuirano oslanjaju na pod tovarnog sanduka. Teret je pravilno utovaren ako:",
+  "odgovori":["najudaljeniju tačku na zadnjoj strani vozila prelazi za manje od 2 m","najudaljeniju tačku na zadnjoj strani vozila prelazi za manje od 1,5 m","je najisturenija tačka tereta označena tablom kvadratnog obilka, dimenzija 50 x 50cm, obojena naizmjeničnim kosim trakama reflektujuće narandžaste i bijele boje i postavljena uspravno na uzdužnu osu vozila"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Digitalni tahograf je:",
+  "odgovori":["uređaj u drumskom saobraćaju za bilježenje brzine i pređenog puta, kao i vremena rada i odmora, gdje se podaci zapisuju na tahografski listić na kojem vrh pisača ostvaruje zapis mehaničkim pritiskom na tahografski listić, a koji omogućava bilježenje podataka za jedan dan","uređaj u drumskom saobraćaju za bilježenje brzine i pređenog puta, kao i vremena rada i odmora, gdje se podaci zapisuju u radnu memoriju i memorijsku karticu, a koji omogućava pohranjivanje podataka za period od 365 dana"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Redovni sedmični odmor je:",
+  "odgovori":["odmor koji neprekidno traje najmanje 45 sati","odmor koji neprekidno traje najmanje 48 sati"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kad vozač upravlja vozilom koje je opremljeno analognim tahografom, na zahtjev ovlaštenog lica mora pokazati:",
+  "odgovori":["samo tahografski listić za tekući dan","tahografski listić za tekući dan i prethodnih 28 dana","tahografski listić za tekući dan i prethodnih 21 dan"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Tegljač je:",
+  "odgovori":["motorno vozilo namijenjeno i opremljeno za vuču poluprikolice","motorno vozilo namijenjeno i opremljeno za vuču lake prikolice"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Da li teret u rasutom stanju, kad se prevozi na javnom putu, mora biti prekriven na odgovarajući način kako bi se spriječilo rasipanje tereta?",
+  "odgovori":["da","ne"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Ukupno akumulirano vrijeme vožnje tokom 14 dana uzastopno ne smije biti duže od:",
+  "odgovori":["96 sati","90 sati"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Motorna i priključna vozila moraju biti obilježena znakom za označavanje sporih vozila, ako se zbog konstrukcijskih razloga, na ravnom putu ne mogu kretati brzinom većom od:",
+  "odgovori":["40 km/h","30 km/h"],
+  "tacno":2
+}]

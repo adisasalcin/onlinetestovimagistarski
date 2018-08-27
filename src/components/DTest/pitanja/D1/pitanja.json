@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Javni prevoz u drumskom saobraćaju:",
+  "odgovori":["može se vršiti samo motornim vozilima","može se vršiti motornim i zaprežnim vozilima"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Ukupno dnevno vrijeme upravljanja autobusom u međugradskom saobraćaju ne smije biti duže od:",
+  "odgovori":["4,5 h","7 h","9 h"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Kolika je najveća dozvoljena dužina autobusa sa dvije osovine uključujući i pripadajuće dijelove koji se mogu skinuti?",
+  "odgovori":["13,50 m","15,00 m"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"U kojem slučaju autobus, osim autobusa za gradski saobraćaj, mora biti opremljen sa kočnim antiblokirajućim sistemom (ABS)?",
+  "odgovori":["ako mu najveća dozvoljena masa prelazi 12 t","ako je proizveden poslije 1. januara 1994. godine","ako mu najveća dozvoljena masa prelazi 9 t"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kandidat za vozača DE kategorije može polagati ispit iz upravljanja motornim vozilom ako prikolica ima najveću dozvoljenu masu od:",
+  "odgovori":["najmanje 1.000 kg","najmanje 1.250 kg"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Koliko kandidata za vozača D kategorije može ispitati ispitivač tokom jednog dana?",
+  "odgovori":["6 kandidata","8 kandidata"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koliko kutija prve pomoći mora imati autobus sa više od 25 mjesta za sjedenje?",
+  "odgovori":["jedna kutija","dvije kutije","tri kutije"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Najveća dozvoljena dužina skupa vozila koji se sastoji od autobusa i prikolice iznosi:",
+  "odgovori":["16,50 m","17,50 m","18,75 m","20,00 m"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Vozač koji upravlja autobusom mora, po pravilu, prije početka svog radnog dana imati neprekidan odmor od najmanje:",
+  "odgovori":["10 h","8 h","11 h"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Brzina kretanja za autobuse, kad se kreću autoputem ograničava se na:",
+  "odgovori":["75 km/h","80 km/h","90 km/h","100 km/h"],
+  "tacno":4
+}]

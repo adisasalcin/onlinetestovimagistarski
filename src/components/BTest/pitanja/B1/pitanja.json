@@ -1,0 +1,242 @@
+[{
+  "level":1,
+  "pitanje":"Vozač je:",
+  "odgovori":["Svako lice koje se u saobraćaju na cesti nalazi u vozilu","Lice koje na cesti upravlja vozilom"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Kako se naziva uzdužni dio kolovoza namjenjen za saobraćaj vozila u jednom smjeru s jednom ili više saobraćajnih traka? ",
+  "odgovori":["Kolovozna traka","Kolovoz", "Saobraćajna traka"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Preglednost podrazumijeva: ",
+  "odgovori":["Prostor koji sudionik u saobraćaju može vidjeti s mjesta na kojem se nalazi.","Mjesto na raskrsnici s kojeg vozač vidi ulijevo ili udesno najmanje 25 metara","Mjesto na raskrsnici s kojeg vozač vidi ulijevo najmanje 25 metara."],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Stiker-naljepnica je:",
+  "odgovori":["Dokaz o izvršenom tehničkom pregledu","Dokaz o plaćenoj putarini", "Dokaz o izvršenoj registraciji vozila"],
+  "tacno":3
+  },
+{
+  "level":1,
+
+  "pitanje":"Projektovanjem i gradnjom novih javnih cesta, osim lokalnih, mora se osigurati podnošenje osovinskog opterećenja od:",
+  "odgovori":["Najmanje 10t po osovini","Najmanje 11,5t po osovini","Najmanje 11t po osovini"],
+  "tacno":2
+},
+{
+  "level":1,
+
+  "pitanje":"Iznad kolovoza javne ceste mora postojati slobodan prolaz u visini od najmanje: ",
+  "odgovori":["4,5m od najviše tačke kolovoza","4m od najviše tačke kolovoza","6m od najviše tačke kolovoza"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Što utječe na produljenje puta kočenja?",
+  "odgovori":["mokar kolovoz","suh kolovoz","opterećenje vozila"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koja je najveća dozvoljena brzina kretanja za motorna vozila koja vuku prikolicu za stanovanje (karavan) ili laku prikolicu?",
+  "odgovori":["60 km/h","80 km/h","90 km/h"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Novoproizvedena motorna i priključna vozila, nakon teničkog pregleda prije prve registracije, vlasnici su dužni odvesti na redovan tehnički pregled:",
+  "odgovori":["u toku mjeseca u kojem istječe rok od 36 mjeseca od dana prve registracije","u toku mjeseca u kojem istječe rok od 12 mjeseca od dana prve registracije","u toku mjeseca u kojem istječe rok od 24 mjeseca od dana prve registracije"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Kako djeca najčešće reagiraju u saobraćaju?",
+  "odgovori":["razumno i staloženo","u skladu sa propisima","spontano i nepredvidivo"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Kako svojim ponašanjem u saobraćaju, za vrijeme upravljanja vozilom, možete doprinijeti smanjenju saobraćajnog rizika?",
+  "odgovori":["agresivnom vožnjom","poštivanjem saobraćajnih pravila i propisa","defanzivnom vožnjom"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Pomoću užeta se ne smije vući motorno vozilo: ",
+  "odgovori":["na kojem su neispravni uređaji za osvjetljavanje ceste, označavanje vozila i za davanje svjetlosnih znakova","na kojem su neispravni uređaji za zaustavljanje","na kojem su neispravni uređaji za upravljanje"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Za koji period važi ljekarsko uvjerenje o zdravstvenoj sposobnosti za upravljanje motornim vozilom?",
+  "odgovori":["12 mjeseci od dana izdavanja","6 mjeseci od dana izdavanja"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Krutom vezom (rudom) se ne smije vući motorno vozilo:",
+  "odgovori":["koje ima ispravan uređaj za upravljanje","koje je teže od vučenog vozila, ako mu je neispravna pomoćna kočnica"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Zaustavljanje vozila je:",
+  "odgovori":["svaki prekid kretanja vozila na cesti u trajanju do 15 minuta, osim prekida koji se pravi da bi se postupilo po znaku ili pravilu kojim se regulira saobraćaj","svaki prekid kretanja vozila na cesti u trajanju do 5 minuta, osim prekida koji se pravi da bi se postupilo po znaku ili pravilu kojim se regulira saobraćaj"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Pješak je:",
+  "odgovori":["lice koje se vozi na koturaljkama","lice koje upravlja vozilom, ili se prevozi u vozilu ili na vozilu"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koliko kolovoznih traka ima cesta sa jednosmjernim saobraćajem?",
+  "odgovori":["dvije kolovozne trake","jednu kolovoznu traku","više od dvije kolovozne trake"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Prijelaz alkohola u krvi (resorpcija alkohola) završi se?",
+  "odgovori":["najkasnije nakon jednog sata od konzumiranja alkohola","najkasnije nakon 24 sata od konzumiranja alkohola"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koje radnje nije preporučljivo vršiti za vrijeme upravljanja motornim vozilom u uvjetima smanjenje vidljivosti?",
+  "odgovori":["Kretati se uz desni rub kolovoza","Prelaziti u saobraćajnu traku namjenjenu za kretanje vozila iz suprotnog smjera"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Koja je najmanja dozvoljena brzina kretanja motornog vozila na autocesti?",
+  "odgovori":["40 km/h","60 km/h"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Što treba izbjegavati nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["vožnju prilagođenu uvjetima koji vladaju na kolovozu","nagle pokrete upravljačem","naglo kočenje i zaustavljanje"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Kako treba postupati nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["pripremiti se za savladavanje više uzastopnih zavoja od kojih je prvi u desno","sudionike u saobraćaju iza sebe upozoriti desnim pokazivačem smjera"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Na koju opasnost upozorava ovaj saobraćajni znak?",
+  "odgovori":["na blizinu dijela ceste gdje je uz kolovoz neutvrđena bankina","na blizinu djela ceste gdje je zaleđen kolovoz"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kako ćete postupiti nailaskom na ovaj saobraćajni znak?",
+  "odgovori":["nastaviti kretanje vozilom jer imam prvenstvo prolaza","smanjiti brzinu kretanja vozila i po potrebi zaustaviti vozilo","propustiti vozilo iz suprotnog smjera"],
+  "tacno":2
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je? ",
+  "odgovori":["zabrana saobraćaja za sva motorna vozila koja vuku priključno vozilo","zabrana saobraćaja za sva motorna vozila koja vuku laku prikolicu"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je: ",
+  "odgovori":["elektronska naplata cestarine","zabrana korištenja radio-aparata u vozilu"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je: ",
+  "odgovori":["niša za zaustavljanje vozila u slučaju opasnosti","prostor rezerviran za zaustavljanje vozila javnog gradskog prevoza"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Tačan naziv saobraćajnog znaka je: ",
+  "odgovori":["radionica za popravak guma","mjesto gdje možete kontrolirati pritisak u gumama"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Kako treba postupiti nailaskom na ovaj saobraćajni znak? ",
+  "odgovori":["povećati pozornost","pružiti pomoć povrijeđenima u saobraćajnoj nezgodi","povećati brzinu kretanja vozila"],
+  "tacno":1
+},
+{
+  "level":2,
+  "pitanje":"Koje značenje ima ovaj saobraćajni znak? ",
+  "odgovori":["ulazak u područje u kojem postoji povećana opasnost od izbijanja nekotrolisanog požara","ulazak u područje gdje je izletnicima dozvoljeno paljenje vatre"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"U saobraćajnoj situaciji kao na slici, kojom putanjom vožač motocikla mora izvršiti radnju skretanja ulijevo?",
+  "odgovori":["putanjom broj 1","putanjom broj 2"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koji je redosljed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-3-1","2-1-3","1-3-2"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Koji je redosljed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["1-2","2-1"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Kako u saobraćajnoj situaciji kao na slici mora postupiti vožač vozila broj 1:",
+  "odgovori":["propustiti vozilo broj 3, zatim proći prije vozila broj 2","propustiti vozilo broj 3, zatim propustiti vozilo broj 2 i zadnji proći kroz raskrsnicu"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Koji je redosljed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-3-4-1","2-3-1-4","1-2-3-4"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Kako u saobraćajnoj situaciji kao na slici mora postupiti vozač vozila broj 1?",
+  "odgovori":["proći kroz raskrsnicu prije vozila broj 2, a propustiti vozilo broj 3","propustiti vozilo broj 2, zatim proći kroz raskrsnicu prije vozila broj 3"],
+  "tacno":2
+},
+{
+  "level":4,
+  "pitanje":"Koji je redosljed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["3-1-2-4","4-2-1-3","3-4-2-1"],
+  "tacno":3
+},
+{
+  "level":4,
+  "pitanje":"Koji je redosljed prolaska vozila na raskrsnici u situaciji kao na slici?",
+  "odgovori":["2-3-1","2-1-3","3-1-2"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"Je li u saobraćajnoj situaciji kao na slici dozvoljeno izvršiti radnju polukružnog okretanja vozilom?",
+  "odgovori":["Da","Ne"],
+  "tacno":1
+},
+{
+  "level":4,
+  "pitanje":"U saobraćajnoj situaciji kao na slici, koji sudionik u saobraćaju mora sačekati i propustiti drugog sudionika?",
+  "odgovori":["Broj 2","Broj 1"],
+  "tacno":2
+}]

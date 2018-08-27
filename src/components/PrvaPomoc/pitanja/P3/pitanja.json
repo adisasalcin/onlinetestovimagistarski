@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"U kom položaju se transportuje osoba sa povredom natkoljenice?",
+  "odgovori":["U sjedećem položaju sa prethodno izvršenom imobilizacijom","Nije bitan položaj bitna je imobilizacija","U ležećem položaju sa prethodno izvršenom imobilizacijom"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Karakteristike venskog krvarenja su:",
+  "odgovori":["krv je tamno-crvene boje i ravnomijerno curi preko ivice rane","izlazi u mlazevima i tamno-crne je boje","veoma teško se zaustavlja"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kod sumnje na povredu unutrašnjih organa i unutrašnjeg krvarenja, osobu postavljamo u položaj:",
+  "odgovori":["poluležeći sa glavom spuštenom naniže","položaj autotransfuzije","polusjedeći položaj"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Osobe koje su jako iskrvarile prepoznajemo prema sljedećim simptomima:",
+  "odgovori":["crvene u licu, raspoložene za šalu, povišen krvni pritisak","usporen puls, povišen krvni pritisak, hodaju i ne mogu da se smire","nizak pritisak, ubrzan puls, blijede, orošene hladnim znojem"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Digitalna kompresija-pritisak prstima je metoda koja se koristi kod:",
+  "odgovori":["mjerenja pulsa","zaustavljanja krvarenja","kod određivanja mjesta preloma"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Gubitak svijesti se provjerava:",
+  "odgovori":["Pritiskom na čelo","Dozivanjem i hvatanjem za remena i laganim protresanjem bez pomicanja","Postavljanjem glave pored usta"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Šta je “mačije oko”?",
+  "odgovori":["Tetovaža","Mačije oko je jedan od sigurnih znakova smrti","Mačka na putu"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Uloga imobilizacije je:",
+  "odgovori":["da spriječi naknadno povređivanje krvnih sudova i nerava","da spriječi povrijeđenog da igra fudbal, košarku, rukomet","da pojača bol kod povrijeđenog"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Priručna sredstva za imobilizaciju su:",
+  "odgovori":["kramerova šina, šancova kragna, vazdušne udlage","lopatasta nosila, vazdušni dušek","daska, štap, vrata, lopata"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Kod povrede kostiju karlice povrijeđenog postaljamo:",
+  "odgovori":["bočni ili koma položaj","položaj na leđima na čvrstoj podlozi","sjedeći položaj"],
+  "tacno":2
+}]

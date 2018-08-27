@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Kako se zbrinjavaju povrede nastale niskom temperaturom (smrzotine)?",
+  "odgovori":["Povrijeđenog unijeti u toplu prostoriju i davati tople napitke","Povrijeđenog držati van prostorija i pozvati hitnu pomoć","Skinuti mu odjeću"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Povrijeđeni koji je imao epileptički napad stavljamo u:",
+  "odgovori":["Polusjedeći","Poluležeći","Bočni položaj"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Unesrećenog koji ima astma napad treba pitati ima li:",
+  "odgovori":["Sprej-pumpicu-inhalator","Nitroglicerin","Leksaurin"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Simptomi srčanog udara su:",
+  "odgovori":["Bol u prsima koja se širi u ruku, otežano disanje, orošeno čelo, bijele i suhe usne, u nekim slučajevima unesrećeni priča nepovezane stvari","Bol u stomaku i krvarenje iz uha","Ubrzano lupanje srca"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koliko ima vrsta prve pomoći, koja se pruža na licu mjesta",
+  "odgovori":["U vidu samopomoći, uzajamne pomoći i pomoći stručnog lica","7 vrsta prve pomoći","Na licu mjesta se ne pruža prva pomoć"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Najveća opasnost kod preloma kičme je:",
+  "odgovori":["Infekcija","Krvarenje","Povreda kičmene moždine"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Hipoglikemija je:",
+  "odgovori":["Nizak nivo šećera u krvi","Visok nivo šećera u krvi","Visok nivo hormona u krvi"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kada dođemo na mjesto nesreće važno je:",
+  "odgovori":["Zaštiti sebe i ostale","Pomoći unesrećenom bez obzira na sve","Pobjeći što prije"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Simptomi preloma vratnog dijela kičme su:",
+  "odgovori":["Nepokretnost gornjih i donjih ekstremiteta, otečenost na tom dijelu","Zubobolja","Krvarenje"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Sopor podrazumjeva:",
+  "odgovori":["Unesrećeni je nenormalno pospan, lako se budi dozivanjem ili laganim protresanjem ali ubrzo nakon buđenja opet zaspi","Unesrećeni se može probuditi samo na jače i ponavljane draži","Najteži poremećaj svijesti"],
+  "tacno":2
+}]

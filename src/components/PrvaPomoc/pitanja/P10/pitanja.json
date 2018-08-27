@@ -1,0 +1,60 @@
+[{
+  "level":1,
+  "pitanje":"Opekotina je:",
+  "odgovori":["Alergija na suncu","Povreda nastala djelovanjem toplote","Upala kože zbog mehaničke sile"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Od čega možemo napraviti Kompresivni zavoj:",
+  "odgovori":["Od tkanine","Od sterilne gaze, zavoja","Nemožemo napraviti kompresivnu gazu"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Šta označava pojam sterilno:",
+  "odgovori":["Kada je nešto uprljano","Kada je nešto vlažno","Bez prisustva mikroorganizama"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Šta obuhvata procejna stanja unesrećenog?",
+  "odgovori":["Slikanje foto aparatom","Crtanje skice nesreće","I Orijentacioni pregled i II detaljan pregled"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Unesrećenog sa povredom grudnog koša postavljamo u:",
+  "odgovori":["Polusjedeći položaj","Poluklečeći položaj","Ležeći položaj"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Koliko se udubinu pritišće grudna kost pri izvođenja spoljne masaže srca: ",
+  "odgovori":["Spoljna masaža srca se ne izvodi","Dovoljno za oživljavanje","Pri izvođenju spoljne masaže srca, grudna kost se pritišće u dubinu 3-5 cm"],
+  "tacno":3
+},
+{
+  "level":1,
+  "pitanje":"Kako se izvodi spoljna masaža srca, sa koliko dlanova:",
+  "odgovori":["Spoljašnja masaža srca se izvodi pritiskom dlanova obje ruke na sredinu grudnog koša","Jednim dlanom","Kružnim pokretima"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Kod sunčanice i toplotnog udara prva pomoć se pruža:",
+  "odgovori":["Stavljanjem glave u hladnu vodu","Unesrećenog što prije prenijeti u hladan i prozračan prostor, raskomotiti ga i rashladiti","Staviti ga u bočni položaj"],
+  "tacno":2
+},
+{
+  "level":1,
+  "pitanje":"Po trijaži prvi red hitnosti je:",
+  "odgovori":["Stanja praćena gušenjem","Sva krvarenja bez opštih znakova iskrvarenja","Manje opekotine"],
+  "tacno":1
+},
+{
+  "level":1,
+  "pitanje":"Uzroci poremećaja svijesti mogu biti?",
+  "odgovori":["Direktni uzroci","Indirektni uzroci","Direktni i indirektni"],
+  "tacno":3
+}]
