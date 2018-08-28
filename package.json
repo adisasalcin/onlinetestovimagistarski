@@ -2,7 +2,7 @@
   "name": "app",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Adisa Salcin",
   "license": "MIT",
   "scripts": {
     "cleanSrc": "rimraf dist/src",

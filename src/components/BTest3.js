@@ -1,15 +1,15 @@
 import React,{Component} from 'react';
 import {Tabs, Tab} from 'react-mdl';
 import {NavLink} from 'react-router-dom';
-import B5 from '../components/Btest/B6';
-import B6 from '../components/Btest/B6';
-import B7 from '../components/Btest/B7';
-import B8 from '../components/Btest/B8';
-import B9 from '../components/Btest/B9';
-import B10 from '../components/Btest/B10';
-import B11 from '../components/Btest/B11';
-import B12 from '../components/Btest/B12';
-import B13 from '../components/Btest/B13';
+import B5 from '../components/BTest/B6';
+import B6 from '../components/BTest/B6';
+import B7 from '../components/BTest/B7';
+import B8 from '../components/BTest/B8';
+import B9 from '../components/BTest/B9';
+import B10 from '../components/BTest/B10';
+import B11 from '../components/BTest/B11';
+import B12 from '../components/BTest/B12';
+import B13 from '../components/BTest/B13';
 
 export default class BTest3 extends Component{
   constructor(props){

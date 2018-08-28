@@ -1,8 +1,8 @@
 import React,{Component} from 'react';
 import {Tabs, Tab} from 'react-mdl';
 import {NavLink} from 'react-router-dom';
-import D1 from '../components/Dtest/D1';
-import D2 from '../components/Dtest/D2';
+import D1 from '../components/DTest/D1';
+import D2 from '../components/DTest/D2';
 
 
 export default class DTest extends Component{

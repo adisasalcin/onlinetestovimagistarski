@@ -2,10 +2,10 @@ import React,{Component} from 'react';
 import {Tabs, Tab} from 'react-mdl';
 import {NavLink} from 'react-router-dom';
 import BTest2 from './BTest2';
-import B1 from '../components/Btest/B1';
-import B2 from '../components/Btest/B2';
-import B3 from '../components/Btest/B3';
-import B4 from '../components/Btest/B4';
+import B1 from '../components/BTest/B1';
+import B2 from '../components/BTest/B2';
+import B3 from '../components/BTest/B3';
+import B4 from '../components/BTest/B4';
 
 
 export default class BTest1 extends Component{
