@@ -3583,9 +3583,9 @@ node-sass@4.5.3:
     sass-graph "^2.1.1"
     stdout-stream "^1.4.0"
 
-node@^10.9.0:
-  version "10.9.0"
-  resolved "https://registry.yarnpkg.com/node/-/node-10.9.0.tgz#879903c25171f1e5e73127b344cc52e671c12244"
+node@8.11.3:
+  version "8.11.3"
+  resolved "https://registry.yarnpkg.com/node/-/node-8.11.3.tgz#b9efe2c3f4c8c84ee78439b119d768ad3b30eed6"
   dependencies:
     node-bin-setup "^1.0.0"
 
