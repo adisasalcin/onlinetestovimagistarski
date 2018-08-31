@@ -11,7 +11,7 @@ export default class TestOpis extends React.Component {
           <p> Polaganje ispita iz poznavanja pružanja prve pomoći se sastoji od 10 pitanja, oblast IV (prva pomoć). </p>
           <ul>
 
- <li> Svako od pitanja se vrjednuje sa 1 bodom. </li>
+ <li> Svako od pitanja se vrednuje sa 1 bodom. </li>
 
  <li>Ukupan/maksimalan broj bodova koje kandidat može ostvariti je 10 bodova.</li>
 
@@ -22,7 +22,7 @@ export default class TestOpis extends React.Component {
 </section>
               <Divider />
                   <Button raised colored onClick={this.props.PrikaziTestPitanja}>Počni test</Button>
-
+<div className="prazanprostor"></div>
             </section>
         );
     };

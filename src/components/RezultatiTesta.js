@@ -38,7 +38,7 @@ export default class RezultatiTesta extends React.Component {
             <section className="prikazRezultata">
                 <h3>Rezultati:</h3>
                 <div className="bodovanje">
-                    Broj tačih pitanja: <em>{brojTacni}</em> . Broj bodova <b>{osvojeniBodovi}</b> / <b>{moguciBodovi}</b>.
+                    Broj tačih odgovora: <em>{brojTacni}</em> . Broj bodova <b>{osvojeniBodovi}</b> / <b>{moguciBodovi}</b>.
                 </div>
                 <div className="oznaka">{osvojeniBodovi}</div>
                 <ol>{rezultati}</ol>

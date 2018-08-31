@@ -2,6 +2,7 @@ import React from 'react';
 import {Grid,Cell} from 'react-mdl';
 
 
+
 class HomePage extends React.Component {
     render() {
         return (
@@ -14,7 +15,12 @@ class HomePage extends React.Component {
           <div className="baner-text">
           <h1>Dobro došli </h1>
           <hr />
-          <p> A kategorija | B kategorija | C kategorija | D kategorija | Prva pomoć</p>
+<p>
+              <a href="/BTest1"> B kategorija |</a>
+              <a href="/CTest"> C kategorija |</a>
+              <a href="/DTest"> D kategorija |</a>
+                <a href="/PrvaPomoc1"> Prva Pomoć</a>
+</p>
             <div className="mreze-linkovi">
                 <a href="https://www.linkedin.com/" rel="noopener nofererrer">
                             <i className="fa fa-linkedin-square" /></a>
@@ -31,6 +37,7 @@ class HomePage extends React.Component {
           </div>
       </Cell>
       </Grid>
+      <div className="prazanprostor"></div>
         </div>
         );
     };

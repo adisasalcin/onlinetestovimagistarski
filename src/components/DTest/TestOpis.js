@@ -18,8 +18,9 @@ export default class TestOpis extends React.Component {
 
             </section>
             <Divider />
-                  <Button raised colored onClick={this.props.PrikaziTestPitanja}>Počni test</Button>
 
+                  <Button raised colored onClick={this.props.PrikaziTestPitanja}>Počni test</Button>
+                    <div className="prazanprostor"></div>
             </section>
         );
     };

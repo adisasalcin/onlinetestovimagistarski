@@ -14,9 +14,9 @@ export default class TestOpis extends React.Component {
 
           <p>   Polaganje testova za B kategoriju se sastoji od 40 pitanja, i to:</p>
 
-            <ul><li>oblasti I, 20 pitanja (teoretska pitanja), svako od pitanja se vrijednuje sa 2 boda </li>
-            <li>oblast II, 10 pitanja (znakovi), svako od pitanja se vrijednuje sa 3  boda</li>
-            <li>oblast III, 10 pitanja (raskrsnice), svako od pitanja se vrijednuje sa 5 bodova </li></ul>
+            <ul><li>oblasti I, 20 pitanja (teoretska pitanja), svako od pitanja se vrednuje sa 2 boda </li>
+            <li>oblast II, 10 pitanja (znakovi), svako od pitanja se vrednuje sa 3  boda</li>
+            <li>oblast III, 10 pitanja (raskrsnice), svako od pitanja se vrednuje sa 5 bodova </li></ul>
 
           <p>  Ukupan/maksimalan broj bodova koje kandidat može ostvariti je 120.
 
@@ -28,8 +28,9 @@ export default class TestOpis extends React.Component {
 
 <Divider />
         <Button raised colored onClick={this.props.PrikaziTestPitanja}>Počni test</Button>
-
+  <div className="prazanprostor"></div>
             </section>
+
         );
     };
 }
