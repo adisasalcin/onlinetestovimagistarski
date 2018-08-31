@@ -15,12 +15,12 @@ class HomePage extends React.Component {
           <div className="baner-text">
           <h1>Dobro došli </h1>
           <hr />
-<p>
+<div id="linkoviPocetna">
               <a href="/BTest1"> B kategorija |</a>
               <a href="/CTest"> C kategorija |</a>
               <a href="/DTest"> D kategorija |</a>
                 <a href="/PrvaPomoc1"> Prva Pomoć</a>
-</p>
+</div>
             <div className="mreze-linkovi">
                 <a href="https://www.linkedin.com/" rel="noopener nofererrer">
                             <i className="fa fa-linkedin-square" /></a>
