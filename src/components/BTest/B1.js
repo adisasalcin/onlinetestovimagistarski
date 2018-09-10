@@ -36,7 +36,6 @@ class B1 extends React.Component {
                 {this.state.trenutnoAktivno === 'testRezultati' &&
                     <RezultatiTesta
                         rezultati={this.getResults()}
-                        ikonice={this.state.test.ikonice}
                     />
                 }
             </div>
