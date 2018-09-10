@@ -36,13 +36,18 @@ export default class TestiranjeB1 extends React.Component {
             },
             odgovorButtons = pitanje.odgovori.map((odgovor, i) =>
                 <p key={i}>
-                <button className={odgovor.odgovor} onClick={this.handleClick.bind(this, i)} disabled={this.props.dugmadIskljucena}>{odgovor}</button>
+                <button
+                className={odgovor.odgovor}
+                onClick={this.handleClick.bind(this, i)}
+                disabled={this.props.dugmadIskljucena}>{odgovor}</button>
                 </p>
         );
 
         return (
-            <section className={'prikazTesta' + (this.props.dugmadIskljucena ? ' promjenaOut' : '')}>
-                <div className="brojPitanja">Pitanje {this.props.trenutniIndexPitanja + 1} / {test.pitanja.length}</div>
+        <section className={'prikazTesta' + (this.props.dugmadIskljucena ? ' promjenaOut' : '')}>
+        <div className="brojPitanja">
+          Pitanje {this.props.trenutniIndexPitanja + 1} / {test.pitanja.length}
+          </div>
                 <hr />
                 <div className="pitanje">
                     <div dangerouslySetInnerHTML={htmlQuestion()} />
@@ -50,9 +55,8 @@ export default class TestiranjeB1 extends React.Component {
                 <div className="odgovori">
                     {odgovorButtons}
                 </div>
-                <img src={slike[this.props.trenutniIndexPitanja + 1]} alt="slika"/>
+                <img src={slike[this.props.trenutniIndexPitanja + 1]}/>
             </section>
-
         );
     }
     handleClick(index, event) {
@@ -61,9 +65,7 @@ export default class TestiranjeB1 extends React.Component {
             target = event.currentTarget;
 
         this.props.posaljiOdgovor(odgovor);
-
         target.classList.add('kliknuto', odgovor.jeTacno ? 'tacno' : 'netacno');
-
         window.setTimeout(function () {
             target.classList.remove('kliknuto', 'tacno', 'netacno');
         }, this.props.kasnjenjePrelaza);
