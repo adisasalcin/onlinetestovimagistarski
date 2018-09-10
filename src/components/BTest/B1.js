@@ -3,9 +3,7 @@ import TestOpis from './TestOpis';
 import RezultatiTesta from '../RezultatiTesta';
 import TestiranjeB1 from './TestiranjeB1';
 
-
 class B1 extends React.Component {
-
     constructor(props) {
         super(props);
         this.state = {
@@ -20,10 +18,9 @@ class B1 extends React.Component {
     render() {
         return (
             <div className="App">
-<div className="naslovi">Test B1</div>
+            <div className="naslovi">Test B1</div>
                 {this.state.trenutnoAktivno === 'testPregled' &&
                     <TestOpis
-                        test={this.state.test}
                         PrikaziTestPitanja={this.PrikaziTestPitanja.bind(this, 0)}
                     />
                 }
@@ -46,16 +43,12 @@ class B1 extends React.Component {
         );
     };
 
-
-
     getData() {
         var test = require('./pitanja/B1/kviz.json'),
             pitanja = require('./pitanja/B1/pitanja.json');
-
         test.pitanja = pitanja;
         return test;
     };
-
 
     componentDidMount() {
         this.prikaziOpisTestova();
@@ -68,8 +61,6 @@ class B1 extends React.Component {
             };
         });
     }
-
-
 
     PrikaziTestPitanja(index) {
         console.log(index);
@@ -93,8 +84,6 @@ class B1 extends React.Component {
 
     posaljiOdgovor(odgovor) {
         var app = this;
-
-        // spremanje odgovora i disable na klik dugmeta
         this.setState((prevState) => {
             return {
                 dugmadIskljucena: true,
@@ -102,15 +91,10 @@ class B1 extends React.Component {
             };
         });
 
-        // pause for pitanje result to show before callback
         window.setTimeout(function () {
-
-            // provjera ima li jos pitanja ili da se prikaze rezultat
             let slijedeciIndex = app.state.trenutniIndexPitanja + 1,
                 imaLiVisePitanja = (slijedeciIndex < app.state.test.brojPitanja);
-
             (imaLiVisePitanja) ? app.PrikaziTestPitanja(slijedeciIndex) : app.prikaziRezultate();
-
         }, this.state.kasnjenjePrelaza);
     };
 
@@ -119,9 +103,5 @@ class B1 extends React.Component {
             return Object.assign({}, stavka, this.state.odgovori[index]);
         });
     };
-
 }
-
-
-
 export default B1;

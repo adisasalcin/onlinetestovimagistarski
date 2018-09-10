@@ -27,7 +27,6 @@ const slike=[p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,
   znak1,znak2,znak3,znak4,znak5,znak6,znak7,znak8,znak9,znak10,
   raskrsnica1,raskrsnica2,raskrsnica3,raskrsnica4,raskrsnica5,raskrsnica6,raskrsnica7,raskrsnica8,raskrsnica9,raskrsnica10];
 
-
 export default class TestiranjeB1 extends React.Component {
     render() {
         let test = this.props.test,
@@ -43,8 +42,6 @@ export default class TestiranjeB1 extends React.Component {
 
         return (
             <section className={'prikazTesta' + (this.props.dugmadIskljucena ? ' promjenaOut' : '')}>
-
-
                 <div className="brojPitanja">Pitanje {this.props.trenutniIndexPitanja + 1} / {test.pitanja.length}</div>
                 <hr />
                 <div className="pitanje">
