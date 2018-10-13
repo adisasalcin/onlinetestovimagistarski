@@ -1,5 +1,4 @@
 import React from 'react';
-import { Image } from 'semantic-ui-react';
 const p=require('./pitanja/B2/slike/praznaslika.png');
 const znak1=require('./pitanja/B2/slike/znak1.png');
 const znak2=require('./pitanja/B2/slike/znak2.png');

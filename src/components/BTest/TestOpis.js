@@ -1,6 +1,5 @@
 import React from 'react';
 import {Button} from 'react-mdl';
-import {Divider} from 'semantic-ui-react';
 export default class TestOpis extends React.Component {
     render() {
         return (
@@ -21,9 +20,8 @@ export default class TestOpis extends React.Component {
                 Minimalan broj bodova koje kandidat mora ostvariti da bi položio je 108. </p>
                 <p>Vrijeme trajanja ispita je 50 minuta. SRETNO!! </p>
 
-                <Divider />
                   <Button raised colored onClick={this.props.PrikaziTestPitanja}>Počni test</Button>
-                    <div className="prazanprostor"></div>
+                    
             </section>
         );
     };

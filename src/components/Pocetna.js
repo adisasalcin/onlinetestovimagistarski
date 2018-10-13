@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import AppRouter from '../routers/AppRouter';
 import {NavLink} from 'react-router-dom';
-import { Dropdown } from 'semantic-ui-react'
 import { Layout,Header,Navigation, Drawer, Content } from 'react-mdl';
 
 

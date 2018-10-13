@@ -1,6 +1,5 @@
 import React from 'react';
 import {Button} from 'react-mdl';
-import { Divider } from 'semantic-ui-react';
 export default class TestOpis extends React.Component {
 
     render() {
@@ -23,7 +22,7 @@ export default class TestOpis extends React.Component {
           </ul>
           <p>Ovdje možete pronaći dodatne testove za kategoriju C i C1. Svaki test se sastoji od 10 pitanja, svako pitanje nosi 2 boda. SRETNO!!! </p>
 </section>
-          <Divider />
+
 
               <Button raised colored onClick={this.props.PrikaziTestPitanja}>Počni test</Button>
               <div className="prazanprostor"></div>

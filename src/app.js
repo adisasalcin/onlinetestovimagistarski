@@ -6,7 +6,6 @@ import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 import './styles/components/App.scss';
 import './styles/components/Footer.scss';
-import 'semantic-ui-css/semantic.min.css';
 import 'react-mdl/extra/material.css';
 import 'react-mdl/extra/material.js';
 

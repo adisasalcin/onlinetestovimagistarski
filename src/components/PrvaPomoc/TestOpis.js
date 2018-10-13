@@ -1,6 +1,6 @@
 import React from 'react';
 import {Button} from 'react-mdl';
-import { Divider } from 'semantic-ui-react';
+
 export default class TestOpis extends React.Component {
 
     render() {
@@ -20,7 +20,7 @@ export default class TestOpis extends React.Component {
  Vrijeme trajanja ispita je 20 minuta. SRETNO !!
 
 </section>
-              <Divider />
+
                   <Button raised colored onClick={this.props.PrikaziTestPitanja}>Počni test</Button>
 <div className="prazanprostor"></div>
             </section>
